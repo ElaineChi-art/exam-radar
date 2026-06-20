@@ -75,6 +75,22 @@ def _subject_section(s):
             f'<div class="cols">{cols}</div></section>')
 
 
+def _highlights_section(items):
+    if not items:
+        body = '<p class="empty">近 14 天暫無新動態（每日自動更新）</p>'
+    else:
+        lis = "".join(
+            f'<li><span class="schip">{html.escape(it.get("subj",""))}</span>'
+            f'<a href="{html.escape(it.get("url","#"))}" target="_blank" rel="noopener">{html.escape(it["title"])}</a>'
+            f'<span class="date">{html.escape(it.get("date",""))}</span></li>'
+            for it in items)
+        body = f'<ul class="hlfeed">{lis}</ul>'
+    return (f'<section class="topic hl" id="highlights">'
+            f'<h2><span class="tag hot">每日精選</span>🔥 近 14 天跨科最新動態 '
+            f'<span class="desc">六科＋憲法法庭，依日期新到舊；先看這裡掌握本週命題熱訊</span></h2>'
+            f'{body}</section>')
+
+
 def _guide_section(sites, tips):
     tip_html = "".join(f"<li>{t}</li>" for t in tips)
     site_html = "".join(
@@ -90,14 +106,15 @@ def _guide_section(sites, tips):
 
 
 def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
-               moj_law, moj_news, ref_sites, ref_tips):
-    toc = [("guide", "📚 申論準備指南"), ("cons-court", "🏛️ 憲法法庭判決"),
-           ("new-law", "📋 新法規動態")]
+               moj_law, moj_news, ref_sites, ref_tips, highlights=None):
+    toc = [("highlights", "🔥 近 14 天精選"), ("guide", "📚 申論準備指南"),
+           ("cons-court", "🏛️ 憲法法庭判決"), ("new-law", "📋 新法規動態")]
     toc += [(s["id"], s["name"]) for s in subjects]
     toc_html = "".join(
         f'<a href="#{html.escape(i)}">{html.escape(n)}</a>' for i, n in toc)
 
-    sections = [_guide_section(ref_sites, ref_tips),
+    sections = [_highlights_section(highlights or []),
+                _guide_section(ref_sites, ref_tips),
                 _cc_section(cc_items, cc_updated),
                 _moj_section(moj_law, moj_news)]
     sections += [_subject_section(s) for s in subjects]
@@ -153,6 +170,16 @@ def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
   @keyframes rise {{ from {{ opacity:0; transform:translateY(10px); }} to {{ opacity:1; transform:none; }} }}
   .topic.cc {{ border-color:#5a4626; background:linear-gradient(180deg,#1d1a12,#15161d); }}
   .topic.guide {{ border-color:#2a4a40; background:linear-gradient(180deg,#121d1a,#13161d); }}
+  .topic.hl {{ border-color:#6a4a1e; background:linear-gradient(180deg,#211a10,#15161d); }}
+  .hlfeed {{ list-style:none; margin:0; padding:0; display:grid;
+            grid-template-columns:repeat(2,1fr); gap:8px 22px; }}
+  .hlfeed li {{ font-size:13.5px; line-height:1.4; padding:6px 0;
+               border-bottom:1px solid #221c10; display:flex; align-items:flex-start;
+               gap:8px; flex-wrap:wrap; }}
+  .hlfeed a {{ color:#ffe3b0; text-decoration:none; flex:1; min-width:60%; }}
+  .hlfeed a:hover {{ text-decoration:underline; }}
+  .schip {{ flex:none; font-size:11px; font-weight:700; padding:1px 8px; border-radius:999px;
+           background:#2a2012; color:#ffce85; }}
   .topic h2 {{ margin:0 0 14px; font-size:18px; display:flex; align-items:center;
               flex-wrap:wrap; gap:8px; }}
   .desc {{ color:#7c8696; font-size:13px; font-weight:normal; flex-basis:100%; }}
@@ -198,7 +225,7 @@ def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
   .sites a {{ color:#7fd0ff; text-decoration:none; font-weight:600; }}
   .sites a:hover {{ text-decoration:underline; }}
   footer {{ text-align:center; color:#6b7280; font-size:12px; padding:24px; }}
-  @media (max-width:980px) {{ .cols, .cols.cols2, .ccfeed {{ grid-template-columns:1fr; }} }}
+  @media (max-width:980px) {{ .cols, .cols.cols2, .ccfeed, .hlfeed {{ grid-template-columns:1fr; }} }}
 </style>
 </head>
 <body>

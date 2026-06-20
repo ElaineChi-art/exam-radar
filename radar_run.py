@@ -5,9 +5,41 @@ import json
 import time
 import datetime
 
+import datetime as _dt
+
 import config
 import sources
 import report
+
+
+def build_highlights(subjects, cc_items):
+    """跨科彙整近 HIGHLIGHT_DAYS 天最新項目，依日期新到舊取前 N。"""
+    today = _dt.date.today()
+    pool = []
+    for it in cc_items:
+        pool.append({**it, "subj": "憲法法庭"})
+    for s in subjects:
+        for col in s["columns"]:
+            for it in col["items"]:
+                pool.append({**it, "subj": s["name"]})
+    out, seen = [], set()
+    for it in pool:
+        d = it.get("date", "")
+        if not d:
+            continue
+        try:
+            dd = _dt.date.fromisoformat(d)
+        except ValueError:
+            continue
+        if (today - dd).days > config.HIGHLIGHT_DAYS:
+            continue
+        key = it["title"][:50]
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(it)
+    out.sort(key=lambda x: x.get("_sort", ""), reverse=True)
+    return out[:config.HIGHLIGHT_N]
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(ROOT, "docs")
@@ -67,9 +99,12 @@ def run():
                                  lax=True, keywords=config.AMEND_KW)
     print(f"    法規 {len(moj_law)}、新聞 {len(moj_news)}")
 
+    highlights = build_highlights(subjects, cc_items)
+    print(f"==> 跨科精選：{len(highlights)} 則")
+
     html_str = report.build_html(
         today, now, subjects, cc_items, now, moj_law, moj_news,
-        config.REF_SITES, config.REF_TIPS)
+        config.REF_SITES, config.REF_TIPS, highlights)
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
         f.write(html_str)
 
