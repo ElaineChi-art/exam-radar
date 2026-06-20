@@ -5,11 +5,30 @@ import json
 import time
 import datetime
 
+import re
 import datetime as _dt
 
 import config
 import sources
 import report
+
+
+def _norm_title(t):
+    """去掉媒體名後綴與標點，留純文字供相似度比對。"""
+    t = re.split(r"\s*[-|｜–—]\s*", t or "")[0]
+    return re.sub(r"[^一-鿿A-Za-z0-9]", "", t).lower()
+
+
+def _trigrams(s):
+    return {s[i:i + 3] for i in range(len(s) - 2)} or ({s} if s else set())
+
+
+def _is_dup(a, b):
+    """兩標題是否為同一則新聞（字元三連詞重疊率 ≥ 0.6）。"""
+    A, B = _trigrams(a), _trigrams(b)
+    if not A or not B:
+        return a == b
+    return len(A & B) / min(len(A), len(B)) >= 0.6
 
 
 def build_highlights(subjects, cc_items):
@@ -22,7 +41,8 @@ def build_highlights(subjects, cc_items):
         for col in s["columns"]:
             for it in col["items"]:
                 pool.append({**it, "subj": s["name"]})
-    out, seen = [], set()
+    # 先依日期新到舊，再做相似度去重（同案不同媒體只留最新一則）
+    cand = []
     for it in pool:
         d = it.get("date", "")
         if not d:
@@ -33,13 +53,19 @@ def build_highlights(subjects, cc_items):
             continue
         if (today - dd).days > config.HIGHLIGHT_DAYS:
             continue
-        key = it["title"][:50]
-        if key in seen:
+        cand.append(it)
+    cand.sort(key=lambda x: x.get("_sort", ""), reverse=True)
+
+    out, kept_norms = [], []
+    for it in cand:
+        nt = _norm_title(it["title"])
+        if any(_is_dup(nt, k) for k in kept_norms):
             continue
-        seen.add(key)
+        kept_norms.append(nt)
         out.append(it)
-    out.sort(key=lambda x: x.get("_sort", ""), reverse=True)
-    return out[:config.HIGHLIGHT_N]
+        if len(out) >= config.HIGHLIGHT_N:
+            break
+    return out
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(ROOT, "docs")
