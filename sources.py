@@ -67,6 +67,12 @@ def _entry_date(e):
     return d
 
 
+def is_foreign(text):
+    """標題命中外國法制標記＝國際新聞雜訊（給台灣實務雷達濾用）。"""
+    t = text or ""
+    return any(m in t for m in getattr(config, "FOREIGN_MARKERS", []))
+
+
 def _mk(title, url, d, meta, summary):
     ds = d.strftime("%Y-%m-%d") if d else ""
     return {"title": _clean(title), "url": url or "", "date": ds,

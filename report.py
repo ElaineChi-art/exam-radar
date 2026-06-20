@@ -1,6 +1,22 @@
 # -*- coding: utf-8 -*-
 """把每日聚合結果組成 HTML 申論實務雷達。"""
 import html
+import datetime
+
+import config
+
+
+def _new7(items):
+    """近 NEW7_DAYS 天的項目數。"""
+    today = datetime.date.today()
+    n = 0
+    for it in items:
+        try:
+            if (today - datetime.date.fromisoformat(it.get("date", ""))).days <= config.NEW7_DAYS:
+                n += 1
+        except ValueError:
+            pass
+    return n
 
 NAV = """<nav class="topnav">
   <a href="https://elainechi-art.github.io/">🏠 首頁</a>
@@ -66,8 +82,12 @@ def _exam_tags(exams):
 
 
 def _subject_section(s):
+    def _h3(c):
+        n = _new7(c["items"])
+        badge = f'<span class="n7">🆕 {n}</span>' if n else ""
+        return f'<h3>{html.escape(c["label"])}{badge}</h3>'
     cols = "".join(
-        f'<div class="col"><h3>{html.escape(c["label"])}</h3>{_feed(c["items"])}</div>'
+        f'<div class="col">{_h3(c)}{_feed(c["items"])}</div>'
         for c in s.get("columns", []))
     return (f'<section class="topic" id="{html.escape(s["id"])}">'
             f'<h2>{html.escape(s["name"])} <span class="etags">{_exam_tags(s.get("exams", []))}</span>'
@@ -193,7 +213,10 @@ def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
   .cols {{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }}
   .cols.cols2 {{ grid-template-columns:repeat(2,1fr); }}
   .col h3 {{ font-size:14px; color:#9aa4b2; margin:0 0 8px;
-            border-bottom:1px solid #262b36; padding-bottom:6px; }}
+            border-bottom:1px solid #262b36; padding-bottom:6px;
+            display:flex; align-items:center; justify-content:space-between; gap:6px; }}
+  .n7 {{ flex:none; background:#3a2a12; color:#ffce85; font-size:10.5px; font-weight:700;
+        padding:1px 7px; border-radius:999px; }}
   .feed {{ list-style:none; margin:0; padding:0 8px 0 0; max-height:430px; overflow-y:auto; }}
   .feed li {{ margin:0 0 14px; font-size:13.5px; line-height:1.45; transition:transform .15s; }}
   .feed li:hover {{ transform:translateX(2px); }}

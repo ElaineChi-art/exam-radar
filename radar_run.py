@@ -58,9 +58,11 @@ def gather_column(col):
             time.sleep(0.2)
     except Exception as e:
         print(f"    欄位來源失敗：{e}")
-    # 去重（同標題前 60 字）＋ 依日期新到舊
+    # 濾掉國際新聞雜訊 ＋ 去重（同標題前 60 字）＋ 依日期新到舊
     seen, uniq = set(), []
     for it in items:
+        if sources.is_foreign(it["title"]):
+            continue
         key = it["title"][:60]
         if key and key not in seen:
             seen.add(key)
