@@ -31,6 +31,49 @@ def _is_dup(a, b):
     return len(A & B) / min(len(A), len(B)) >= 0.6
 
 
+def _concepts_of(text):
+    low = text or ""
+    return [name for name, kws in config.GRAPH_CONCEPTS if any(k in low for k in kws)]
+
+
+def build_graph(subjects, cc_items):
+    """Obsidian 風關聯圖：項目 → 科目節點 ＋ 爭點概念節點。"""
+    pool = [{**it, "subj": "憲法法庭"} for it in cc_items]
+    for s in subjects:
+        for col in s["columns"]:
+            for it in col["items"]:
+                pool.append({**it, "subj": s["name"]})
+    # 新到舊，取前 N
+    pool.sort(key=lambda x: x.get("_sort", ""), reverse=True)
+    pool = pool[:config.GRAPH_ITEMS]
+
+    nodes, edges, have = [], [], set()
+
+    def add_node(nid, **kw):
+        if nid not in have:
+            have.add(nid)
+            nodes.append({"id": nid, **kw})
+
+    for idx, it in enumerate(pool):
+        concs = _concepts_of(it.get("title", "") + " " + it.get("summary", ""))
+        subj = it.get("subj", "")
+        if not concs and not subj:
+            continue
+        iid = f"i{idx}"
+        title = it.get("title", "")
+        add_node(iid, label=title[:14], title=title, url=it.get("url", ""), group="item")
+        if subj:
+            sid = "s_" + subj
+            add_node(sid, label=subj, group="subject")
+            edges.append({"from": iid, "to": sid})
+        for c in concs:
+            cid = "c_" + c
+            add_node(cid, label=c, group="concept")
+            edges.append({"from": iid, "to": cid})
+    # 只保留有連到項目的概念/科目節點已自然成立
+    return {"nodes": nodes, "edges": edges}
+
+
 def build_highlights(subjects, cc_items):
     """跨科彙整近 HIGHLIGHT_DAYS 天最新項目，依日期新到舊取前 N。"""
     today = _dt.date.today()
@@ -130,9 +173,14 @@ def run():
     highlights = build_highlights(subjects, cc_items)
     print(f"==> 跨科精選：{len(highlights)} 則")
 
+    graph = build_graph(subjects, cc_items)
+    ni = sum(1 for n in graph["nodes"] if n["group"] == "item")
+    nc = sum(1 for n in graph["nodes"] if n["group"] == "concept")
+    print(f"==> 關聯圖：{ni} 篇 × {nc} 概念、{len(graph['edges'])} 連線")
+
     html_str = report.build_html(
         today, now, subjects, cc_items, now, moj_law, moj_news,
-        config.REF_SITES, config.REF_TIPS, highlights)
+        config.REF_SITES, config.REF_TIPS, highlights, graph)
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
         f.write(html_str)
 

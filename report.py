@@ -1,9 +1,38 @@
 # -*- coding: utf-8 -*-
 """把每日聚合結果組成 HTML 申論實務雷達。"""
 import html
+import json
 import datetime
 
 import config
+
+GRAPH_JS = r"""
+const GRAPH = /*GRAPH*/;
+function buildExamGraph(){
+  if (window._examG || !window.vis) return; window._examG = true;
+  const el = document.getElementById('exam-graph');
+  if (!el || !GRAPH || !GRAPH.nodes.length) return;
+  const nodes = GRAPH.nodes.map(function(n){
+    if (n.group === 'concept') return {id:n.id, label:n.label, shape:'box',
+      color:{background:'#2a1f3a', border:'#9a6cff'}, font:{color:'#d6c8ff', size:15}};
+    if (n.group === 'subject') return {id:n.id, label:n.label, shape:'ellipse', margin:8,
+      color:{background:'#3a2a12', border:'#ffce85'}, font:{color:'#ffe3b0', size:17}};
+    return {id:n.id, label:n.label, shape:'dot', size:8,
+      color:{background:'#7fb5ff', border:'#3a6ea5'}, font:{color:'#aeb6c2', size:11},
+      url:n.url, title:n.title};
+  });
+  const data = {nodes:new vis.DataSet(nodes),
+    edges:new vis.DataSet(GRAPH.edges.map(function(e){return {from:e.from, to:e.to, color:'#2a3340'};}))};
+  const net = new vis.Network(el, data, {
+    physics:{stabilization:true, barnesHut:{springLength:130, gravitationalConstant:-5000}},
+    interaction:{hover:true}, nodes:{borderWidth:1}});
+  net.on('click', function(p){ if (p.nodes.length){ const n = data.nodes.get(p.nodes[0]);
+    if (n && n.url) window.open(n.url, '_blank'); }});
+}
+document.querySelectorAll('details.graphbox').forEach(function(d){
+  d.addEventListener('toggle', function(){ if (d.open) buildExamGraph(); });
+});
+"""
 
 
 def _new7(items):
@@ -95,6 +124,19 @@ def _subject_section(s):
             f'<div class="cols">{cols}</div></section>')
 
 
+def _graph_section(graph):
+    ni = sum(1 for n in graph.get("nodes", []) if n.get("group") == "item")
+    nc = sum(1 for n in graph.get("nodes", []) if n.get("group") == "concept")
+    if not ni:
+        return ""
+    return (f'<section class="topic gr" id="graph">'
+            f'<h2><span class="tag hot">視覺化</span>🕸 申論關聯圖 '
+            f'<span class="desc">{ni} 篇情報 × {nc} 個爭點概念；連線越多的爭點＝越熱。'
+            f'點藍點開原文、拖曳可移動</span></h2>'
+            f'<details class="graphbox"><summary>▶ 展開關聯圖（橘＝科目、紫＝爭點概念、藍＝新聞/判決）</summary>'
+            f'<div class="graph" id="exam-graph"></div></details></section>')
+
+
 def _highlights_section(items):
     if not items:
         body = '<p class="empty">近 14 天暫無新動態（每日自動更新）</p>'
@@ -126,19 +168,28 @@ def _guide_section(sites, tips):
 
 
 def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
-               moj_law, moj_news, ref_sites, ref_tips, highlights=None):
-    toc = [("highlights", "🔥 近 14 天精選"), ("guide", "📚 申論準備指南"),
-           ("cons-court", "🏛️ 憲法法庭判決"), ("new-law", "📋 新法規動態")]
+               moj_law, moj_news, ref_sites, ref_tips, highlights=None, graph=None):
+    graph = graph or {"nodes": [], "edges": []}
+    toc = [("highlights", "🔥 近 14 天精選"), ("graph", "🕸 申論關聯圖"),
+           ("guide", "📚 申論準備指南"), ("cons-court", "🏛️ 憲法法庭判決"),
+           ("new-law", "📋 新法規動態")]
     toc += [(s["id"], s["name"]) for s in subjects]
     toc_html = "".join(
         f'<a href="#{html.escape(i)}">{html.escape(n)}</a>' for i, n in toc)
 
     sections = [_highlights_section(highlights or []),
+                _graph_section(graph),
                 _guide_section(ref_sites, ref_tips),
                 _cc_section(cc_items, cc_updated),
                 _moj_section(moj_law, moj_news)]
     sections += [_subject_section(s) for s in subjects]
     body = "\n".join(sections)
+
+    graph_scripts = ""
+    if any(n.get("group") == "item" for n in graph.get("nodes", [])):
+        graph_scripts = (
+            '<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>'
+            "<script>" + GRAPH_JS.replace("/*GRAPH*/", json.dumps(graph, ensure_ascii=False)) + "</script>")
 
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
@@ -191,6 +242,11 @@ def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
   .topic.cc {{ border-color:#5a4626; background:linear-gradient(180deg,#1d1a12,#15161d); }}
   .topic.guide {{ border-color:#2a4a40; background:linear-gradient(180deg,#121d1a,#13161d); }}
   .topic.hl {{ border-color:#6a4a1e; background:linear-gradient(180deg,#211a10,#15161d); }}
+  .topic.gr {{ border-color:#3a2a5a; background:linear-gradient(180deg,#161126,#13161d); }}
+  .graphbox {{ margin-top:6px; }}
+  .graphbox summary {{ cursor:pointer; color:#c79cff; font-size:14px; font-weight:600; padding:6px 0; }}
+  .graph {{ height:560px; border:1px solid #262b36; border-radius:10px;
+           background:#0c0f14; margin-top:10px; }}
   .hlfeed {{ list-style:none; margin:0; padding:0; display:grid;
             grid-template-columns:repeat(2,1fr); gap:8px 22px; }}
   .hlfeed li {{ font-size:13.5px; line-height:1.4; padding:6px 0;
@@ -277,5 +333,6 @@ def build_html(date_str, generated_at, subjects, cc_items, cc_updated,
     document.getElementById('countdown').textContent = out.join("　·　") || "考試已開始，加油！";
   }})();
 </script>
+{graph_scripts}
 </body>
 </html>"""
