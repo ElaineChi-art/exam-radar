@@ -1,0 +1,1360 @@
+{
+  "date": "2026-11-25",
+  "subjects": [
+    {
+      "id": "criminal",
+      "name": "刑法",
+      "exams": [
+        "調查局",
+        "司法官・律師二試"
+      ],
+      "desc": "故意過失・正當防衛・共犯・財產犯罪・沒收…實務見解與修法",
+      "columns": [
+        {
+          "label": "⚖️ 最高法院・大法庭見解",
+          "items": [
+            {
+              "title": "師鐸獎幼園主任超收學費、詐領補助477萬一審依貪污判9年 - PeoPo 公民新聞",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fZ1pFOXV2UzZkUVAyeWtJNVdNdlNuNUZVakNoUExieklpTm94ZGV0QVM1X20xWmdBZFNEUXBGalk2VjVkRTJjUA?oc=5",
+              "date": "2026-11-25",
+              "meta": "PeoPo 公民新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "中教大生美工刀抵師頸喊「滅了」 老師未提告仍依妨害自由移送 - PeoPo 公民新聞",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCY1ZUVGNxSWlZQVBoVWhHX19Td2Y0NkZySjlEYnh4LTBhVHYwOU42MnRGWGYybnNjeS1EUFFVX1ZFd3d1d2lacw?oc=5",
+              "date": "2026-11-24",
+              "meta": "PeoPo 公民新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "司法烏龍檔案：13次不起訴也能當成從重量刑事項？ - Yahoo新聞",
+              "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQzdhcGJyVUtONTFFY2Y5Zldsc2FkRVVKSmRHY3NHMGZPX2MxSS1HeWllYkU3VnlhVWRPNGZPZU5JdVpfaUFmbEdvbkJtbFB4dW5BS1VlWkxtOVM1X28zcG5rU2lENGRzd2hNdTEtWUVrREtEc3pBcDBjaFpwa2NSaXlnU2JBRjVCbnhnYk52dUdQRFVwMVBCTXNuM2RlNmZEMFd4N1JNVmt5S255alZLaFdTVGpCaGg3OVNzUklsUFFRYWtmbWRmcFFGQ0tXUkJ1NWtXZ0RhM3hyVVVJNjF5em0yX2pBcGU3bFYwcXVraV96ZDdfblFsQWhaNndwam8tY2hEU3NTTHVlYUQxNVNTR2lqOXhLTmdjZ3p5amMzb0Z0ZUQwS2ZaUXpxUWJWTklyOFFGX3VQbmNrRHRkSkt1czFFODc0SDg?oc=5",
+              "date": "2026-11-21",
+              "meta": "Yahoo新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-21"
+            },
+            {
+              "title": "最高法院累犯裁定大走鐘 刑法權威大師點出核心問題出在這 - 鏡週刊Mirror Media",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01NHRkT0RhWTR5cVg0cG5JN3dHanVpM2Z0ejdWcHM3cmFULW9uZ2YtRTV6cmlDWkpOMV90c3Z4RTd1dGo2ektUcUZXZTNhR3QzdmNUYUdKNnhjMFU?oc=5",
+              "date": "2022-05-05",
+              "meta": "鏡週刊Mirror Media",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2022-05-05"
+            }
+          ]
+        },
+        {
+          "label": "📋 修法・新法規",
+          "items": [
+            {
+              "title": "防制網路販毒擬修法 業者不配合最高罰百萬【獨家】 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMa0RMX09pclF6VVdVZWFKN0VaejhoOE9oYW9JTE5BRzVMY2RsZzMtVjY0MW1vUDhVM2ZUY1FWanBBWmZ4amRUd19vSWR6RTQ3V2xsdlN6b2NhTGZPTGpF?oc=5",
+              "date": "2026-11-25",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "毒駕新制沒入車輛盲點：租車、代駕都可能踩雷，無辜車主扣車損失誰買單？ - TNL The News Lens 關鍵評論網",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqRjE2VU4xWkxiSmhxNVgyTURqdkhKeW16bkZpS3RqaEhLODBOM2F5RG1EanRkRG5hYVhxUzBCMkNlZERHZDFWVHVMRV9MNWhtZk51UA?oc=5",
+              "date": "2026-11-25",
+              "meta": "TNL The News Lens 關鍵評論網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "央行草案出爐！新台幣穩定幣逾百億、外幣逾3.5億美元需繳存準備金 - 自由財經",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVGt1RWNzd3RDY3FQc1UzUk1PcnpWem9vMUlwM3hsSmJ4WU9uNjBPVkN1b2V1TF9wU19oN3RxVHZCZS1DX1B2Vml2cXFMMk83SURRYk84eGotekFSUXJj0gFkQVVfeXFMTjYxQy02dHhWdXpQcUFicFNwT3N4UTZZNV9sV1JaZUE1dHJPOHFORGV0bFYwZEc1SWdfb3lCaU5MN0l5RWJkbUpCak5WVlRGYWU1YnZ1Q1RIRWt3c3FYRnJwaVZwdw?oc=5",
+              "date": "2026-11-24",
+              "meta": "自由財經",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "抗中滲透升級 立委修法：鼓吹武統最高罰100萬 - 大紀元",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKRHdPa1d2am9rN0ZNc0drR1hfYnVnQjVQWkRIUVEyZ0xxRjl1elVVaG1wV1RQUnBoNEpaejdINGJIbzFrZmJ3enF1WFBYa3p6alM2SnpVdkM2SlpFMHllc1Nn0gFnQVVfeXFMTUFlYTgybmtpQ2VvOE9DSDZtMkdBUG1QXy1rU0RkVHlFR1gzX1NEQW84WVNIU2FJc2FZcHYyZUJZV25jZlIyT1d1dWlWQUVlNWtZR1c0Wm51UG1HUkRMc3hNMWhqLVRLSQ?oc=5",
+              "date": "2026-11-24",
+              "meta": "大紀元",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "遺贈稅罰則放寬！財政部修正裁倍表 核定前繳清稅款倍數酌減20%、逃漏稅降至1.6倍 - 蕃新聞",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGM2pNaFROVE5JcHlFWTJITGI3Nk02VHE3X2FCdy1UU292WTNWMDgzVGxHQU00SUpoQ05NUkNHSUNGMjVmLTdibzdyWXByQjBMM2c?oc=5",
+              "date": "2026-11-24",
+              "meta": "蕃新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "溯源查緝詐欺車手 槓上開花逮機車騎士涉毒駕 - 匯流新聞網",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yUGMwSkhydUlYZmZUQTVZMHZMdndtZF9fN280bnpyLXVIeUJMYWlDSlpEbWJZZTJDcE50dllrYXpWZEN1dURZMWRB?oc=5",
+              "date": "2026-11-23",
+              "meta": "匯流新聞網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "快訊／別再繳錢！2職業工會欠費黑名單 勞保局暫拒給付 - ETtoday財經雲",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jS3E5QVFaYi1IME9rTzYzbFNPV3I0dl84cHU4VnZQck5VN2liQ0lzQ3pMZ2tsWldVZVNLWVVnNnVHeHJfSm0xMElpLVdFZmZsa0HSAVBBVV95cUxPeDJKRFBkSXo2Q09RMG9OODRYSzZwTTFmb1ctcXJiVW92eEJScHpycXI5cUg0QmtTaHdzYXRFQl9VVUJGRnM0VTZPU2xmRTRDdg?oc=5",
+              "date": "2026-11-23",
+              "meta": "ETtoday財經雲",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "勞工注意！2職業工會爆欠勞保費 勞保局示警：別再繳費 | 民視新聞網 - LINE TODAY",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoZWJ5c3gwLU5ySkV6VFhDdmRaUy1PODU4VzdObHpYeVQ3Q002dnJqbjN2XzdydGhaUlk2YzJSZ3AwNk5pN1VMR2U4Qk5BR3B0WWU0Z3hn?oc=5",
+              "date": "2026-11-23",
+              "meta": "LINE TODAY",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            }
+          ]
+        },
+        {
+          "label": "🔥 社會矚目・考點熱區",
+          "items": [
+            {
+              "title": "師鐸獎幼園主任超收學費、詐領補助477萬一審依貪污判9年 - PeoPo 公民新聞",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fZ1pFOXV2UzZkUVAyeWtJNVdNdlNuNUZVakNoUExieklpTm94ZGV0QVM1X20xWmdBZFNEUXBGalk2VjVkRTJjUA?oc=5",
+              "date": "2026-11-25",
+              "meta": "PeoPo 公民新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "高雄茶行掩護販毒9人落網 查扣依托咪酯6月起已改列一級毒品 - PeoPo 公民新聞",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLYUR6dG5Kc05RQVJJTTBzZ0ZnNFN5R19zcVJtdU5EX2JjVGFTX29faTY0SlF5MF94RmRwbW42OWxDZF9McjJucQ?oc=5",
+              "date": "2026-11-25",
+              "meta": "PeoPo 公民新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "一票1千買162人！關西鎮代候選人涉賄起訴11人 沒收36萬 - TVBS新聞",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FbkQ5UmxHbzZkblEyLURSWXZuZ2UwYTJlcVRyZjdDcV9LQmNUUWV4NFdlSWdsQ056YkZvLWhsSU1rdkl1aGtpMTdUNklCNGM?oc=5",
+              "date": "2026-11-23",
+              "meta": "TVBS新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "勞工注意！2職業工會欠繳勞保費 勞保局出手了 - TVBS新聞網",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4UnBnV3M3STJtdnJVMkF0VlJnQkpGT0pSSXlBdE05a05PaXg2VDhxOWtiYlJqZ3c1STQ3Sk5xSDVrbUlSdXVNQ0F5MlNPUQ?oc=5",
+              "date": "2026-11-23",
+              "meta": "TVBS新聞網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "憲兵中士在營區賭博「影響軍紀」判刑 法官沒收他賭贏的7萬元 - udn",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ieEJiRUprWG1vMmhaVW50dzlldmVDZExia3B5cXV4MHlkYVdMZklzVXNyM3VScVVBbGRReG9GM0hKLUJRSXVIcnVxNVlIaXlf0gFWQVVfeXFMUDNEMGN0SHFCMlVsWTIwckhxdDJJbW5WcEtVb0JNeDZwZ3BYZy1obWw2czl5R2FSaU9jNFBvUEZ5a1FFNHhodlRRdTBBM05heGN3ZjhId1E?oc=5",
+              "date": "2026-11-16",
+              "meta": "udn",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-16"
+            },
+            {
+              "title": "淺談詐欺犯罪危害防制條例之立法與修法重點-生活與法律 - 臺灣高等檢察署",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9scGZHbjBiV29odUxUMnIwcTU2TXJNQ3J6TW1ZZnRVczREVUREOUdNOTFOSzZHWktzWHo4YVdLbTRVUk8tN2N5dDc4bjZXMVQtTE5NVG9SQV9FbUNBS3NyRTFRNlRZTVk?oc=5",
+              "date": "2026-01-28",
+              "meta": "臺灣高等檢察署",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-01-28"
+            },
+            {
+              "title": "注意！不當逃漏稅捐之犯罪所得如尚在刑法「追訴權期間」，即便已逾稅法「七年核課期間」仍可依刑法沒收 - EY",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0MGFsb013YS1sQ2ZiMlFNZWg0TWY1NXJTa09zZHhWdTRiTkNESV9TMElSUUZiQ1FRUXNHNGlUOF9WSWM1aW9qbF90RGwzdzU3SGhhbzhPdExTMjBIaWx6Sm5lbGpLRUlXdk5STXFsUF9JOFN4czIzV0YyT0paUjA?oc=5",
+              "date": "2024-10-30",
+              "meta": "EY",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2024-10-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crim-proc",
+      "name": "刑事訴訟法",
+      "exams": [
+        "調查局",
+        "司法官・律師二試"
+      ],
+      "desc": "羈押・搜索扣押・證據能力・傳聞法則・沒收程序…",
+      "columns": [
+        {
+          "label": "⚖️ 最高法院・大法庭見解",
+          "items": []
+        },
+        {
+          "label": "📋 修法・新法規",
+          "items": [
+            {
+              "title": "謝典霖競總批羈押期太久 地方人士：應找立委姊姊修法不要打悲情牌 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hVVRGZGZxSGh3RTlZU3R1cUxEejFvV2JSbEdueXVWdEFBNTNTaHVGLTZMWW80cnpoODUtSXJNZ2drVUg1dGJQRzEzd2k2UmdVRGtCVFVwV3BjUHVWaGJqSkxGUlQzcGJjSnfSAW9BVV95cUxNM1pmZ1FMZDVuLXJDeXEwN1R3NHNZTGIzSmlCdDdHcVEtNkxpcjQ2RmdnYlk0c0VpVXN2LTRwRy1weWlrZG5id0R5cHFuOVpkb1RydTFaR1pNMkRlbURJaXFsNk42aFpFbWZrSjdrWlU?oc=5",
+              "date": "2026-11-24",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "柯文哲點頭挺柯志恩！選前之夜去哪？鬆口優先考慮嘉義、竹北 - Yahoo新聞",
+              "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQNUo4ekZJaHhjSHNKUGkySXBzNnNBU2hEdGZ4ZE9CLWdDbmV1VmxTUDJLcVZqVHI4YWJnU0w5UjEycVZKZV9wLXdLM1RfNTN4SGFnUWdLOVgxMmlEelg1a1VLVmR0dXhzeHBGVHY2Zm56ZTNwenJqM2RLc1pFbU5qazNQeXFnUFFwUllZeE1VZkNIUEdxTDVWMHhEWUNTeDhyOUVVT2wtWF9pZVlzQXZpbXRNWjY4ZEZWSHVIbmhjSktOeURrTlpNQjlYdGVxaTZWQVpmZ0FOUElRckZpN2RYWElNeXNYQVJWcmtLSkcxeF9XQWFQcTNHVTFES2MxZTQ0elAybmpWeEladW5JVjgtTFZ5UnFoZGhUZURYME9YOEtGR0xDdExybjZsZ1A2M0JBVlAyS0c3ZHBsRU1zMHhiTGtMdEkwdVo2UEJMRVFMQ21XMEp4MjFiV0VKNkJRdkxuZ3RCdU4wYk5uLWwtTGJNTFpsWXJVbVhzOUZpQnFpMUx4Y0U?oc=5",
+              "date": "2026-11-20",
+              "meta": "Yahoo新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "涉反滲透法遭訴！周曉芸發聲明：嚴正否認 - 鏡週刊Mirror Media",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wb1lCcWo2Y0Fuc2J2d0F5alpWZDJpbnJKNm1zWHlCRUVaaGJnR3ZLMzZkQUhwSEt3b1EzZFZxcHhoeUJZUERvczdKWnp1cFR6YTVQcV9lanB6VXdy?oc=5",
+              "date": "2026-11-20",
+              "meta": "鏡週刊Mirror Media",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "不認收紅錢、中國網軍介選 黃國昌「金釵」周曉芸：光明磊落不會被打倒 - 鏡週刊Mirror Media",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MaTE3RUZuNWhydUphNHRHdnlKNHRmc2tWdm1SOFJUOHZVZk9DWWZMNUx3c2lmdHVNOFc0cGNGWk84dk9lbG1lRmk1dVF6SG9VLTNOdXVpaXpUTlVyOVllNnU0T0g4UdIBa0FVX3lxTE9vRWdFRDFVcnFIUWh0clBnQTdJRmxRdmVTSnNkMGZ1YzhpWDBOblN1cXZOOXBHeFBxZUFNemVoRzAzN0pCdTJsTUE0T01tVy1vM21YSHNPend1Vlo2RXNwMmt4S1JfWVNVaUlj?oc=5",
+              "date": "2026-11-20",
+              "meta": "鏡週刊Mirror Media",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "三仲裁中心處理五百案 - 澳門日報",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IZ3NleHhhU2w4Q2NuM2hOckZLRTd1WEpndzNvLUgtaU5QVUZIbkItYU14ZzFUenJtb19KQzhGYWJPTzNRb1oyaWpObWZ5VnZFc0RGU2h3T3dtT1UzdVB3aGkzR2ZkUmxW?oc=5",
+              "date": "2026-11-20",
+              "meta": "澳門日報",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "法院案件負擔增加司法院修正刑事訴訟法| 社會 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zNXRMYXZpdm9WVEZnYXFZVDNfZGVDa2d6cnF1NXQ2VEsxcnVVVUtKVEJsOWdQdDdEa2FXV0dJRGZuYzczeEltZUFTb2FkeFpsYk9NWTZsQ2p2Wjc4Wlpj?oc=5",
+              "date": "2026-04-23",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-04-23"
+            },
+            {
+              "title": "教育部培訓調查員做罪犯認定 全教總批不恰當 - 公視新聞",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iT3p6LWVfbWVIREpNSXZUUnFJWXVuX3l2YllXbWJ2QTVFNmxOb3VvdXJOaUhUS2sxUm13NmFjMHU2NVlYYmg2Wkl5TXFxRkE?oc=5",
+              "date": "2024-02-06",
+              "meta": "公視新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2024-02-06"
+            }
+          ]
+        },
+        {
+          "label": "🔥 爭點熱區",
+          "items": [
+            {
+              "title": "1票1萬！鄉長候選人「塞2瓶高粱酒」賄選 - 鏡週刊Mirror Media",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fMzlMZ25BV29fWGlnSTZkWVZPNGU0djhuYWgwdTl3d3NfdE5uUmQ4a2V2V21ydWpYek0wQ2xGTXVQdjltQmRnUTYtNFlTNHFCdmtmTlhpSFE3al9X?oc=5",
+              "date": "2026-11-25",
+              "meta": "鏡週刊Mirror Media",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "謝典霖羈押近70天提抗告 偵查中羈押最長4個月、延押只能一次 - PeoPo 公民新聞",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WNzlYN091VDJkczZ3LXEyVkJqTWMyRmJZdE5TODlHckxaclNpYUVIRTdhdnhvLXhQUldXeXRCOXVFTFUxUWtGRQ?oc=5",
+              "date": "2026-11-24",
+              "meta": "PeoPo 公民新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "1票1萬元！南投信義鄉長選舉爆買票 候選人之母羈押禁見 | 聯合新聞網 - LINE TODAY",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCNnhyQkRGYVVNdFdRaXNxZjRUbUZoekdfOFVFdFRVcTRxWElIemYzVkxPVUZrMmZ4dEE0UklKaWRqZzE5VmQ4Y2IxR2hxSU1Va21rSW53?oc=5",
+              "date": "2026-11-24",
+              "meta": "LINE TODAY",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "16億大麻走私主嫌60萬交保、沒戴電子腳鐐？運毒重罪為何能不羈押 - PeoPo 公民新聞",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xeTVMUHVPaFdHcGVIOHhOMEk2MWtrNFk5eXllN0ZtbzJ6bnhzNDVfd3MxczZRdGJuOTZsQ3UtdnlJVjBaTHJjaA?oc=5",
+              "date": "2026-11-24",
+              "meta": "PeoPo 公民新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "苗栗温姓議員候選人涉賄選案 檢方抗告今由法院裁定羈押禁見 - udn",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MeDQwSmVyM0VXTnBoUEVRbDhUdFpjTEE1N3BTWjJpSGNXek53czdUOVVBbzdoZTVNYk1JbTgxd0lqZ29lSmhVVWlRcVJkRkdV0gFWQVVfeXFMTTVBbmJ0SzZhUktPUGpwM2tZX0JyaVFiSXVTbGY2bmFKdHhCZVk1Y0UwS3VybTAxNjNBMmNxQXVmWXVFWWdqbG84bC1hazdtd2lJSFFoZkE?oc=5",
+              "date": "2026-11-23",
+              "meta": "udn",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "檢抗告成功！苗栗議員候選人涉賄選 50萬交保改羈押禁見 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tdjduSHJybHJQdGdoTzQxMWRFSWpNQzJwd2tNYUVUQzA3dEwtaFctRERleld2VFNVUVBXUzhEMGFVbmVWYkRDTGlJZ3BoZ0hSMHRqUTFsTXR2VDJoS25Qa1pRWkh5Um1laVHSAW9BVV95cUxQRTVxNmRSa3JpNWhCWlFmdzhrRjZRSUFzUEo4X3ZCTmFISk16T1diUjNWa3FiQ3ZvTjFXeHN1aEs0MW1CNlV0UVlHQ0dkTkQ0eFJoZWFUZlhmUFRGOFJSczUzSDVNSmdRVUV1RllPajQ?oc=5",
+              "date": "2026-11-23",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "謝典霖羈押67天支持者集結要求檢方儘速結案- 政治新聞 - PChome Online 新聞",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2Q3ZENxZU1Sc1EwTlc4Z0drVDYxNjY1T0puNEZ6TF84QUV2MzJNWlJmNFVzVXJnZk5FVDZiTy00X3JTLXBVSVZtNFNBNVB0b3dtSE5ULU9fOE5RM0k3blJ2OWx5RFVtOUxiMWwxLVZ2ekF4bm9rZUFNQVdiNWZGNFhzVENGY2lRbmV5TA?oc=5",
+              "date": "2026-11-23",
+              "meta": "PChome Online 新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "桃園毒駕釀1死6傷！28歲男法院裁定羈押 - 中時新聞網",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Vk9TZXZ1R2ZiX3VkVjIzbGNxTi1MallCS214M1NxTHg5UkZmQVdSQXY2UUFYTXNpc3pxaTM0ZWJMaXFzS01EdG55ZW1zdGZWZ2VSOU96LXlNNUhERHBSNFA4Q3NFNUVHeXVFTlp3?oc=5",
+              "date": "2026-11-21",
+              "meta": "中時新聞網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "admin",
+      "name": "行政法",
+      "exams": [
+        "調查局",
+        "司法官・律師二試（公法）"
+      ],
+      "desc": "行政處分・訴願・國家賠償・裁量・信賴保護・行政罰…",
+      "columns": [
+        {
+          "label": "⚖️ 最高行政法院・大法庭見解",
+          "items": [
+            {
+              "title": "彰化縣潭墘國小被廢 公益律師：行政訴訟判決確定應復校 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PaTJWSEg2YUNUeElyMm5CcmNUTnlOY3NmTjhicWk0eThGMm4zeXBsOE50QnNsXzZoVzRxRmlrSkRNNmRVd0t1aFZjNV9LT3JN0gFWQVVfeXFMT05pejkxNVRTM0lGLVRfMWswUlNPZTNodDNlLTFJQmIxeFV6ZzdIMEtMdFVISTVQdEstaTVRY3YyaG82LW0wcDJwRVdZRXY5MFJibERha2c?oc=5",
+              "date": "2026-11-23",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "肇事逃逸一定吊銷駕照？大法庭裁定以故意為限，收到裁決怎麼辦 - maygoddejia.com.tw",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbkd1TkNsMkwzajJOWXltVGZta2FEeHRMMlVLVnptYUhpcU9DNTBtN0Z6Q0tMdVN0OTBOajBUbEEtYlZiNnh6SmpIRHV3cGFlVi1fd0I4cHVBdnRPTEpKcUJqVDhiWHRnNF9RWXN3MXZKNjc3aVVmZDI0dmhFY1k?oc=5",
+              "date": "2026-11-20",
+              "meta": "maygoddejia.com.tw",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "國民黨中市黨部收歸市有 中市府：不續租 - 鏡週刊Mirror Media",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11RkRZVDNnUHRMc19JQWhLQlVDR3g3bDZuWHc3YlpHSzFxVFI1Z0pKQ3d3eG5oQkYwQ1hXX05DTlU5NDZkMXhCMXN0RVA1WUZLWThDbVNieE0xVEhE?oc=5",
+              "date": "2026-11-12",
+              "meta": "鏡週刊Mirror Media",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-12"
+            },
+            {
+              "title": "救國團遭認定為國民黨附隨組織 最高行政法院駁回上訴定讞 - 公視新聞",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBMzNLZmp2Tnl0TVBGUEdmOUdTN3luanhsZEhkTmpRRGFCbnFYOTk0V0JHenNnQ3lldFRQZk12ZUl4ZGpsRWpWSWplXzhSU0U?oc=5",
+              "date": "2026-10-09",
+              "meta": "公視新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-10-09"
+            },
+            {
+              "title": "黃麟凱遭槍決！廢死聯盟告法務部違法執行死刑 最高行駁回確定 - TVBS新聞",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LTVl4X005WlRPdk1PaXRmV0tOcmFsZ1VFVDNmZElxX1ZocXdkamdSWkRqTGhxV2tOaGRXNjBSNE5RVVhIX3hjbEN4VzlaSkE?oc=5",
+              "date": "2026-09-27",
+              "meta": "TVBS新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-27"
+            },
+            {
+              "title": "竹市「貴族學校」遭命解散！提行政訴訟救濟被駁回 確定敗訴了 - TVBS新聞網",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hSUJPN1JkNU1mY3o2RU41LTlWcWJiTlhsQTVDUGZDTEcycFlTM1pLTmN3UVA0NmdHa2hmNmJVNmFfbThQeG5oTFR5UjFuQQ?oc=5",
+              "date": "2026-09-20",
+              "meta": "TVBS新聞網",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-20"
+            },
+            {
+              "title": "最高行政法院變更見解 高教工會憂：恐架空教育部監督私校職能 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYejJYMzN0TmVuVHRBcHo4SW1XVnRvSkZId3M2OEtQRDluRVFNWUo3X0ZwTFA3eTFud2RIUDlNTjg1d2ZpakhwWFkzOG1zeG5I0gFWQVVfeXFMTkk1RzdKWFNRYTdNc3VlRHpKNGxMQXBCMzNvZU4tNjdITDFjcHVhOEdCMklFQzdtQy1KWEk0YUo1Z0lKMVBNdGxjWXJWNGpvUGNnVzVPeEE?oc=5",
+              "date": "2026-06-26",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-06-26"
+            },
+            {
+              "title": "花蓮縣府礦石稅官司第3勝 - 中華新聞雲／中華日報",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kS2c0ODBlRElPeE8tbEdqUDd4MFR2STF1UzlBOVIzd3BjRmh2cU1mUmxVRUIzcnduOWVlMUJCZUpuSmNjMldtT3lBTTA3MDEzZXc?oc=5",
+              "date": "2026-03-27",
+              "meta": "中華新聞雲／中華日報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-03-27"
+            }
+          ]
+        },
+        {
+          "label": "📋 修法・新法規",
+          "items": [
+            {
+              "title": "衛福部菸害防制法草案遭控黑箱 王郁揚向監察院舉報石崇良違反行政程序法 - 台灣威卜 菸草減害網路媒體 VAPE TAIWAN",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazZuVHZ6NjVRUUxzdVI4UHZrQnNBVXFDU0lHdDJYVURPUmdQc3NCV2pNSUpDZDR6YjZHVlhZZ3k1WklmSnVEX0JSUlRGbW5OUGVmRVI5Z2JjaTJiZUNKUGktM3NTSW9aT0hDX3cyUUZxSE9zQTlEcmhrWGw0b1dtZUIxYzRXUjBQeUk1UXVBWFIxZWc3MEE4?oc=5",
+              "date": "2026-06-30",
+              "meta": "台灣威卜 菸草減害網路媒體 VAPE TAIWAN",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-06-30"
+            },
+            {
+              "title": "訟棍濫訴將有法可管 行政訴訟法三讀通過最高可罰12萬元 | 社會 | CTWANT - CTWANT",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83YTlhOXNxUWJDS2VMamUxazctUDdBMGpRWVJCbjhnMEtVelNuVm9uOFVhQlVjTUdIcmJtamdDbUZXMWdjWWdBeW9xSkxnZm_SAVRBVV95cUxNWWtzNGhFb2JtSEg1N2Y1Z2RpbUt2YjY3MkRHQ3BsZk9lZU5Ia3BHdlVUdFhJZ2F3eGdfSkkzSDA0T0JidGJVUjh5UFcxck82NHZpXy0?oc=5",
+              "date": "2022-06-01",
+              "meta": "CTWANT",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2022-06-01"
+            },
+            {
+              "title": "行政訴訟法三讀 高等行政法院增設「地方行政訴訟庭」 - Newtalk新聞",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DNlVGemRuaDl1eFB3LTY0LVJaU3lrV1lBNElndFdlX21NY0FHa1FzMHZrX3dvbjM2YTk0TlhsQVAwWk9iVEdSdllDZ3ljUEhsSy01TU1qdzRHUQ?oc=5",
+              "date": "2022-05-31",
+              "meta": "Newtalk新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2022-05-31"
+            },
+            {
+              "title": "「行政訴訟法」修正初審通過 高等行政法院增設「地方行政訴訟庭」 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vVkpESjVYamFWc3VnQ1FNWHRZeHFlakkyanFHS1pIeEMzMHZaZHp5LTlHQ0RhM21ralo4RkdhZGMwMHdrdkRZRG1nWnRKbUFGV1FoclA0bnBqQTBSb3REckduRG1UUmZvV0HSAW9BVV95cUxNRF9jZTBhSnc5X3ZkMUk1dmN5OE1yN3dWWkRqQnRJVW1Bc3lzNUpxUGZDdGNuSW1xd1k2Z25pcHZ2bVh3NndNYXQ5dzhBOG5wM3BiLVZDZkY2VWo2czFZQjBCNTU0Y196X3I3Wlk4bTg?oc=5",
+              "date": "2022-05-25",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2022-05-25"
+            },
+            {
+              "title": "強化訴願制度、周延救濟權利 政院通過「訴願法」修正草案|內政 - 僑新聞",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ZVR5STc4NEVDaVF0R0tQWUpsWndCZUM4TkdqQ0YzTndvR2ZTbTRuZXJKR0ZNVjZLdDE0dDg0R3F2NzBZb1B5bGJldw?oc=5",
+              "date": "2022-05-20",
+              "meta": "僑新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2022-05-20"
+            },
+            {
+              "title": "國賠法大修》周宇修／訴訟費「預納」制度非改不可！ - ETtoday新聞雲",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YVzBYZk9DeE1TUUpPSW4zT18yMlRCaDhTY0JQUUFhVGk2WmRkSVBCRkZLXzMwWEZoQVIyelVVR0k1ZGdLclhxcGNJd2dCMzjSAU5BVV95cUxNak1vVmZoVThBOU1SS0ZXTEcxUzliN3hQbXM3OGlsaDlZR2Y3SUlXWkd6aHNKMHgya3p4anItaTE4b29felczNmJWWEVvMkE?oc=5",
+              "date": "2021-09-07",
+              "meta": "ETtoday新聞雲",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2021-09-07"
+            },
+            {
+              "title": "司法院全球資訊網-業務綜覽-行政訴訟-行政訴訟訊息公告-立法院三讀通過行政訴訟法、行政訴訟法施行法修正案新聞稿 - 司法院全球資訊網",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13dHd4RnBXbk42cDJhLXBtMHI4UkN4anV3NU55ZlRQTG5GT3Y4QkIxNV9GVk15S3NYeVR0SDdMa3JEVVZLNmNRTzVvR29hVTJvRXJja3V6cUJxYUlwX3NnVVZLbnVKNi1Venc?oc=5",
+              "date": "2019-12-14",
+              "meta": "司法院全球資訊網",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2019-12-14"
+            },
+            {
+              "title": "「行政訴訟法修正簡介」法制教育講習業於101年5月18日舉辦，獲得熱烈迴響 - 臺南市政府全球資訊網",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTGVqRkFhbkdkbjg3T0g0bm04OU9uLS1WemxZOGJ3b3R5QVFSVGxnRl82LVBTd3loOTJEWkpTY3p0emF2OVU4TmR1Rkg5dUNTakRoVVY3V3VCRm1mVjdXOVRFeWN4R3NIc29HQlkydE0?oc=5",
+              "date": "2018-12-23",
+              "meta": "臺南市政府全球資訊網",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2018-12-23"
+            }
+          ]
+        },
+        {
+          "label": "🔥 爭點熱區",
+          "items": [
+            {
+              "title": "彰化縣政府強化依法行政！專家解析國賠與訴願實務 提升公務效能保障民眾權益 - 彰化縣政府全球資訊網",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjdub0lDZ3BrZ0VaalJxaVB2VjdvNmRvNHRhVm9vN2FRS0hXWEM3ekJ3RjNQT3Y5dTZ3OWFldVJUcU9JbTRLX3BSMDA0MzJyeks1V2tibV93R3g1d29WQjBSV1o5MEZmYlB0Y2otZ1FRUTc2S3F1ZGdZaXJ1Tm1wTkdlWEJTaUNl?oc=5",
+              "date": "2026-11-20",
+              "meta": "彰化縣政府全球資訊網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "東沙體驗營爭議徐佳青：來不及提訴願已繳清罰鍰| 政治 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5dEZXX1Nyd01VcnlSVS1QaFVOTHR2MEhKU3FrU2JwYVA3U1lLaGhOdnZkUHNVbXlZb1l4cEFzUXIyNVhEM0ZVaDZ4ejJKT2tXMk5xb1VPa0tob2VuZlpN?oc=5",
+              "date": "2026-09-30",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-30"
+            },
+            {
+              "title": "環評訴願仍在進行…爭議聲中 政院拍板宜蘭高鐵 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfZzk4YWhDTEpzY25lRFNneTQ4bTgySVR4c3BLV3ZBSFQtbkdSdkN1bF9hbG9ibTJFTF8xazc5M2stV29KVFlhSnN2dU9sU0tY0gFWQVVfeXFMT3JMYWZWLU5HSUV1dkltWWEwdnI4ODZsM3loNjlFaGpJRkZPcHphVTVQTHhqWEotWTlCY3NyWU9Oekl2OGlTSTlmeU5JczBJbEVfbHRiU2c?oc=5",
+              "date": "2026-07-24",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-07-24"
+            },
+            {
+              "title": "致癌油爭議 徐欣瑩主張應有國賠機制並加碼食安基金 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rZEszcHF1SnFTV0tXOTY5QmJBejlGN1RyMGYzeW9BQ192anlYYjZDVUxwc21LYkxnYXY2RXFnSWJoT2Qyenl3cXhhUVdJaWkxM3duX3VwTDdPLVpzR3lIMVpmZGbSAWpBVV95cUxQa0ZRM2cxWkdLZ1ZyWUxDQmNHeldkOEFDamFsbFF5eWN6Tm1xZEloSXNIZmtzYUVVQ3RHTUZGR3hZOWtfcl9lcGZ4enNxR3JzYTlfSkNTVk5DRW5oNWs5TTk1cl9NTC1FM0Zn?oc=5",
+              "date": "2026-07-14",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-07-14"
+            },
+            {
+              "title": "國中生遲到罰抄課文，家長告學校「提國賠200萬」！ 法官判決結果出爐 - 風傳媒",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtZjRyZGg5SjE4VU9mZzltVXR6eGlwYi0zZ2NiODVxUTZRY1NLNzdBVDZLelV3MER5d0RraXNNcDB5LWlTQmNFWC12QmV5engt?oc=5",
+              "date": "2026-07-12",
+              "meta": "風傳媒",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-07-12"
+            },
+            {
+              "title": "【八仙塵爆最高院判決「國賠確定」】 （#大表哥） - Facebook",
+              "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOMUlYWTZpeHlMUkVpV1RTU2Uxa2JCRUdvX1hUbjdka2RUTHpQejE2eXU2dzhCaHo0NUV2c2xWQjROcWVpVy1oa1ZtZHNhcEJuRExsYmRGNDBKMnNTUWU0Z21qVlNxUi1mZFNUVGZhNnRRbGw5X3YtX201T2dvQVQ5R3NGd1lqYmpwOG5GZUZKNTMzbVpKSTlwVzE5OWgzTjZJWHlOeGNzanhDRnA2YmhhdmFwNTYxbG93ZUFkR0hNZnF2VDM4TUg0MlNsTjR5MENuV1lBamg3TDI3VkRBNzZHbmo3TllkTmxCeUM5OV9wN3dic3dRQ21ZMnltSVFOc0hDdTE0QmdXdjdzVW5ZWlVKNDBvcHVDd05Ld3NyMUYyYmFFYVhyUkV5OA?oc=5",
+              "date": "2026-06-26",
+              "meta": "Facebook",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-06-26"
+            },
+            {
+              "title": "從馬太鞍溪洪災國賠爭議看現代防災困境：政府該擴大撤離還是精準避險？ - TNL The News Lens 關鍵評論網",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rRG8wWHBHOTdKNlkwTWRSZ3d3cm5QWG5QRVk2TEFPdnl4QXA5TWtERndZQnE1WmJHYTRNa1dJVE5hcEQtN1U5VFRKcU1zYWNNcGYyNg?oc=5",
+              "date": "2026-06-09",
+              "meta": "TNL The News Lens 關鍵評論網",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-06-09"
+            },
+            {
+              "title": "避免產生國賠爭議 中火裁處撤銷回歸展延審查 - 環境部新聞專區",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CRmh0aTJmcDNSRjJCbDhQeDhBRnlQVWttRFhIdFFJOGpfeE9BTzNiYnlWMjJYUTJVWVdaMGZwWlZkQk91SkhMU0ltYllYbDM2aGRDSkhOaWNqWFBwdU9fQ3NPVQ?oc=5",
+              "date": "2020-02-25",
+              "meta": "環境部新聞專區",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2020-02-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "constitution",
+      "name": "憲法",
+      "exams": [
+        "司法官・律師二試（公法）"
+      ],
+      "desc": "憲法法庭判決・基本權・違憲審查・比例原則・正當法律程序…",
+      "columns": [
+        {
+          "label": "⚖️ 憲法法庭・釋憲動態",
+          "items": [
+            {
+              "title": "罵警察髒話有罪？ 判決兩樣情 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlbGl6QWl3VUtRaEVLdUR4UmFIRjRyaUxPWkFYZXJmOS01RE9VaUh0Z243UnlWNXlyU3U0SE4zZG5hMk5qZFpSWkhhczZ5R1k40gFWQVVfeXFMT1hCbThhNXlwQURzeFBXekxpdDZJcWJsR0RFVUN0eklwd0pYQmQ1T1JLdXZHTlN2Y3dJdm5hWGRqa0lIWHVmMUdEcGZHdUM0b1RXcnJJaVE?oc=5",
+              "date": "2026-11-22",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-22"
+            },
+            {
+              "title": "花縣府公布歲計賸餘綠批為游淑貞普發2萬背書| 2026九合一選舉 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa3FETjQybkhwcExsaEkyZnZTV2VJRWxPVnh6dTdyRVo4TmVIWl9sMzJDZENaWXhvWXZpTlVFaC1DcTVBVWlybEJMVEtTalNZN1hFNlZFdjc?oc=5",
+              "date": "2026-11-18",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-18"
+            },
+            {
+              "title": "移民廣告須先審查 憲法法庭判違憲 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JaG5YWVE1eW9qN0d5VkQ0UG9ZY1FDbS04bS1raVZaOGNVN1dMbmV2ZnFtMnpldVpkYmRzS1psSllWcUVWVW5vM0VEaUtjMWEz0gFWQVVfeXFMTXBtLTdHN1VFdkFabDNGZDcwcy1OMVdMVkM3REV6bXZhUHJKZ0xtdFFjMy1WN3l6Z2RxdHZtWVVxMENPZTVRcUh4NGxlRDUyVWk2TlhwNnc?oc=5",
+              "date": "2026-10-09",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-10-09"
+            },
+            {
+              "title": "普發1萬不舉債、公投竟能推翻違憲判決？藍綠40項法案大鬥法，民眾到底能拿多少？ - Yahoo新聞",
+              "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQRmVOWXB5Y1RHd1JCQVNsVHpHaHpwdl9jUnRVZExTbk5aay1LWWJ4VHM2R09yS1hlRFZVTjN3dG13a25uQUdld24wSmJ4ekhSQkpjNUg1NldPUm1hZmlaRldpR2JYU05sUEFQUUtIaURWV2pOc3JqSUE4aVFlZVJiM1cyUnl1S1BfUmM0N1ducGI1dnJVdEpubmxuRVFIVFpJeThLMExnSDBEZjkwMkFCMVpqdVFSenNUeDdmX1h6cUNTRVlJN1ZOSkgzUG1sMGlZYnowRzF3ME56T0xENFo2ZG1hNjYxaTdiNVJiLTRkUlp3dzJoVFM4bEVJSkp4aHN0RGlUcWhZa1pUSVlsOHBOZHRabUJZQ2lGQTBQWThmend5SGcwaU5qckNfTm43OWVBRW1MU0RieWZRQWZFT2F0aHhyN1BZcFdBYmJMMVg1VzJlbGNXeWp2eHBkSEQyUWhtdE9OLVpSSjdiWTZGYXdaV1ZjUmM4SlFsN19qbWlBTlplaWwxSUVTV2hxQ3hDTVA1NEJCWEloRVpVZ0V6cXVnY1oxeGRhMy1zTTFCNUgwV0tobmlKamE5enA4ZFlXdFZTc3o5eGVrWU5OaGVVY0lrMWx0Vl9LTjZDVWJv?oc=5",
+              "date": "2026-09-29",
+              "meta": "Yahoo新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-29"
+            },
+            {
+              "title": "憲法法庭重啟，《憲訴法》部分修正條文違憲失效；5名大法官開會參與評議，3名大法官未開會並私下提不同意見書 - 報導者The Reporter",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1oxN2FhZ2cwZG1mVFNTczJpRnRZSTBuakxSaDFfOTFRMFVxOW83R0FtQkxfcG92empSQUY0SUYzNWIwUjFkS3l1d0ZwVnR4Sm1keW15SGdxUkhoSENOS1RSZ3FzYkdfU2pJaEhXcDZVZVN0Wmx0T3RXbVI3b1UwVzdjT1d3S25BdXNPOGg4T3VCb25zOTc5ag?oc=5",
+              "date": "2025-12-19",
+              "meta": "報導者The Reporter",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-12-19"
+            },
+            {
+              "title": "憲法法庭113年憲判字第9號判決【立法院職權行使法等案】記者會(1131025) - 憲法法庭",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50YWg3NUVwellDSk9KWE12R0lHN2ZkU2REV0hpS21NcjU3S1pQREpUWF9FcHp2UXFzeV9CeE92NlpNOE9UaVFiVFk0TzVnckFnOG51YU0tYXJEQXQ3WDZmTTdoOTdpQ1NlSkE?oc=5",
+              "date": "2025-04-16",
+              "meta": "憲法法庭",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-04-16"
+            },
+            {
+              "title": "大法官解釋及憲法法庭為何重要？ - 國際特赦組織台灣分會",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YOC1RVHZ4Tk9CTVN1NTM3YU1EYlhDRTM5OTRqbC1xMGNmNVlBS2FVUVNWbnhnU3VJMnB2d0ZiaE8yalJoUmU4Uw?oc=5",
+              "date": "2025-02-04",
+              "meta": "國際特赦組織台灣分會",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-02-04"
+            },
+            {
+              "title": "憲法法庭113年憲判字第8號判決【死刑案】(1130920) - 憲法法庭",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HdVlvUXZDR1ZvcTk5cWlCRktwR1ZBWklOaTY4OVI1aEhlMV9PUFFIRkZBT2ptMFFJRkFVRE1FR1RsdWE3al9PODVLN0Q1M0dNMEFTRE9mQnkwcGpHX0gyVzhPaEFzVGlEaFBqT3FZZWNudw?oc=5",
+              "date": "2024-10-06",
+              "meta": "憲法法庭",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2024-10-06"
+            }
+          ]
+        },
+        {
+          "label": "📋 修法・新法規",
+          "items": [
+            {
+              "title": "分裂的憲法法庭：五人判決憲訴法違憲，其他三大法官主張判決無效｜Whatsnew - 端傳媒Initium Media",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY1RiQTltSlFzUWF2VXNrajUxaXpYY1JweXctWE5QUmd3T3BoTXFRSUFCUVFhQXpjQXptRFhiQ2k2U3RIcXc2THVmZDVfTDdEQ1pTamNrZURrYXRhZi1QeTBJZkpSbG1mU2RadjF5d2F2ZzdONDdJUExfNFJEWEhHOC1XMTBLa05kb3lVOA?oc=5",
+              "date": "2025-12-20",
+              "meta": "端傳媒Initium Media",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-12-20"
+            },
+            {
+              "title": "憲法法庭重啟，《憲訴法》部分修正條文違憲失效；5名大法官開會參與評議，3名大法官未開會並私下提不同意見書 - 報導者The Reporter",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1oxN2FhZ2cwZG1mVFNTczJpRnRZSTBuakxSaDFfOTFRMFVxOW83R0FtQkxfcG92empSQUY0SUYzNWIwUjFkS3l1d0ZwVnR4Sm1keW15SGdxUkhoSENOS1RSZ3FzYkdfU2pJaEhXcDZVZVN0Wmx0T3RXbVI3b1UwVzdjT1d3S25BdXNPOGg4T3VCb25zOTc5ag?oc=5",
+              "date": "2025-12-19",
+              "meta": "報導者The Reporter",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-12-19"
+            },
+            {
+              "title": "憲法法庭癱瘓一年即將復活？5位大法官宣判《憲法訴訟法》修正案違憲 - TNL The News Lens 關鍵評論網",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84aS1laUNVZ2pMTXIwcGIyT0JqTHpXeG5YNTFBaDJBSW81U2hNUkFoUFFXTDZtMmJXYlB2T1B1dG5aUlp6anZKYkl1U290eks0UUhibg?oc=5",
+              "date": "2025-12-19",
+              "meta": "TNL The News Lens 關鍵評論網",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-12-19"
+            },
+            {
+              "title": "憲法法庭今年首例判決 宣告憲訴法修正案違憲 - 公視新聞",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSUXhCUUNoelEwbDBUWkpSV3hQMDFRQXR3QUlKUVBSRzBvSkJhQnlycmV1bXZrWEZzcFRTaHVGQW94UDIwWnRYN2thbGI0Q28?oc=5",
+              "date": "2025-12-19",
+              "meta": "公視新聞",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-12-19"
+            },
+            {
+              "title": "卓揆宣布「不副署」財劃法再修正版 捍衛憲法權力分立、堅守國民主權及民主原則、確保國家發展及財政穩健 - 行政院",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFVkWGNUVWFBdEtkZEQ0V3E2a1N3Y3FjMFJQc0YxZ3p2MnQ5dmpGU0prcFVBU0Fzdnc5WnpWT2p2a2kxRUZhTEo5bmg1XzBzUFoxTlJCbjVBRDg4VWhrM0tyX2RMYVpXX05xTjhZdVhzcXdlTjk4eDVRUTBPNHFLemlWM0psQlE?oc=5",
+              "date": "2025-12-15",
+              "meta": "行政院",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-12-15"
+            },
+            {
+              "title": "癱瘓憲法法庭？為親中法案鋪路？台灣《憲法訴訟法》修法衝突為何升高？ - BBC",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56Ym4zMUNIOE0takw3bDhPbE1aWXdDUW53ejNoUlFKS2swSWZUSW8yNEVJTXZhQzM1dmJSWW5kZGxlamw1NlB2ampfa1ZPUEFlTVVaNlZxU3Z1bmFFcHllLXJha2FVZ9IBa0FVX3lxTFBmWTcxRTFhVUpkSC0tUzU3SzZBOGpCU3U4WkFKWFVtYVlQWW1SdWZWRVVZREtiOUlldHdpajR1WThCY2pCRVBaM3dyLVRiS3R4MUFVaHVYMGY3dC1qSzVTemNEVjZRQUI2QVJn?oc=5",
+              "date": "2025-01-27",
+              "meta": "BBC",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-01-27"
+            },
+            {
+              "title": "憲法訴訟法修正案三讀通過：嚴重限縮人民救濟管道 - 國際特赦組織台灣分會",
+              "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uUVFOUUdXSzdQU2pDNU5GRmZmbUJ6VVRjNWV6bmVsMDZoSTJaajhpQnpObTRISTNiT1pHSXRFN1pCX2tnRk1SZg?oc=5",
+              "date": "2024-12-21",
+              "meta": "國際特赦組織台灣分會",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2024-12-21"
+            },
+            {
+              "title": "憲法訴訟法修法三讀 同意違憲宣告大法官最少需9人 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZERtMDNJaC1walA0LVFiNGx5aEgzc3BHVlRSeG9XVkw2Y0JicFhQcEYwaThfOF9mYTc1NExuVWpDbzlidDRqSDNTeFRqd1BKc0NtbDhlUGU4d3pPNVNJ?oc=5",
+              "date": "2024-12-20",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2024-12-20"
+            }
+          ]
+        },
+        {
+          "label": "🔥 基本權爭點",
+          "items": [
+            {
+              "title": "（社論）台灣還有言論自由嗎？ - www.anntw.com",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tVTV0OWNlODFleGMwbHg5dXV5akllQmdnQm1nWHJSaUV5TlhGS3MzbGVsaDUwakJoYnctOEtjZUExM2J0dWdiZm1nU2ZYVzNRT3pnSmJLTQ?oc=5",
+              "date": "2026-11-25",
+              "meta": "www.anntw.com",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "胡德堡槍手哈桑要求延遲行刑 稱判決違憲 - 巴士的報",
+              "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQUDQ1R1R5MDJpQjFRZ2F5LUtXRzYwTTJZdlV0MGQyTE5EMTBIVVkyZkZOa3hJcDRZZEx2MGhBTUlBZXkxeHBSTFhta2VTRTUybkdTbkpMekRXbFFTaHNDZHJGZ3FNV1NnUDFQWFNyZ1Y3RDJ0WURZa1hXbk8tSTJydkFNTFJLTjZIbFZrMmpERUNlWENOYV9ZVF91ZkVXMUF0X0ZnTEUyWV9CMl83ZGpZQjlVNVFuYlpUU0NydDBLdTc4bmwzSXVraXlXWDBubl9mY00tMkF6YjUyVXNJU0p2Y2ZjQndhUjBjXzg2eU1hWkJSd19RSXRyczlnSV82bjVoOF8wd3FfbXFVM0tyYkRLdHpnOXNQYVVRY0hCLWpicl9rZ284TTh6X2RtUTFaUTI5cWV6MG5IVzc5MWNxd2NlMWlOakFTSEFjZ1ZyTjNDUDUtbXpOS1NIRVRfTW96SDBrZnRn?oc=5",
+              "date": "2026-11-25",
+              "meta": "巴士的報",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "「挺安靜」遭出征 言論自由分顏色？ - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LLXk2TW5sOTNiWGlFcXpUZkdQYnRlbWg3Y0V6bzc4YWl1b3p0Ymoxc1ROcmZUZjVtc0Y1VjhEWnVqZ0kycEdHbl9XemNqQlMz?oc=5",
+              "date": "2026-11-23",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "【重磅快評】賴卓這堂違憲政治課既昂貴又侮辱人民智商- 股市爆料同學會 - CMoney",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UNm93ck9zcjV0X0o5N19FdFZ6eE9CdGJSMXBBTXlMdXk4RVRhVjVUM0FnUlFyaDBoSUpfbUN3X2ZLc1pVRmdoR0RVZ1lONzIzNWZ1WnFKSVY?oc=5",
+              "date": "2026-11-23",
+              "meta": "CMoney",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "學法的卓榮泰違憲不自知還是裝傻裝迷糊？ - 草根影響力新視野",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RRWNlQ2dZc1I1VXFjdlQwTHUxTEtLMGpMWXhDdEdrVzY3UlVPZ01kR3ZtaVh5UnJnYV9MNVlsTmpFbHhySzJUbHJ3?oc=5",
+              "date": "2026-11-22",
+              "meta": "草根影響力新視野",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-22"
+            },
+            {
+              "title": "【立院三讀普發2萬 行政院：高度違憲疑慮將採合法合憲作為】 （#大表哥） - Facebook",
+              "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQbGY1S3FRZ0FLQUx6MXVHVzlzQ25tQXRkYm54TFF1WWNmOTJ2bldvREgtbEF4RHpBdUZHbjNkYXlMcUVFNm9HMzEyVkJvNHVXVEdjRHIxd2ItVjRFUTdMQklmYlRSVFhCMVFQQnRnRHFWb2dBVVVFU3V3amxGemZEc0UxTHc3YTB6QnVoTG54RVhSbXZiNEtGa2RfYWJ2NWoxRUZDeERGMnhfdU8xM2RGeWlxN0VjRHo2NEUwVGI3eG9veU85QTdYZlZsbmVuenpDQUNRYVI4Sms5bWVEcDNGYTVHeURxZHNBdS1NWEVGQTBhUmRGLXhDdEJESV9xOGlZZkJrNjVnSHZxMHJZNy1DU1ZPeWQwdkY3NVoxOFQxdG1HdDdBajJJQWJza3I2YlVEVmNFV1MwYm5nNHM3Y0phTGg2WUNTVVdGcmxsUmNpTDdKWnVxNFdjZnpYU2V2bENlQ2VMXzV4WkpQTGVYeF80WVJ1WGJsV3JKUFVESzk0RHpoNWZ3SWN3SnJBYU1NeDkyc0dNN2JXaGcyNVhETk51SUI3TE1KODlFMGhqampjOA?oc=5",
+              "date": "2026-11-20",
+              "meta": "Facebook",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "政院：普發2萬有違憲疑慮財政風險遺憾立院強行通過| 政治 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oVi1PcVJSbzZ1Z043LXgwSGlrWU1jeG9xbDVxd3Jral9hQXdmT2NfMkdFUjBzWG1lNkRZOVpaa2FRYTViRWFyZmdtZEVMSk5EVy1lNGRxVEtCYXVQcEpB?oc=5",
+              "date": "2026-11-20",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "政院質疑普發2萬元違憲 籲立院速審總預算普發1萬元 - Rti 中央廣播電臺",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91MDczcG5aQ1U3a0RGeUwwaGZ2MlEyWmdIMzZhUF90NzhQSzJpQnB1bUhpZk1JQnZNQjl4M3hraU9UdWxvOFRVWDNxQXYwMHdIdTc5R0RmT2w?oc=5",
+              "date": "2026-11-20",
+              "meta": "Rti 中央廣播電臺",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "civil",
+      "name": "民法",
+      "exams": [
+        "司法官・律師二試"
+      ],
+      "desc": "契約・侵權行為・物權・不當得利・繼承・損害賠償…",
+      "columns": [
+        {
+          "label": "⚖️ 最高法院・大法庭見解",
+          "items": [
+            {
+              "title": "最高法院裁定肯認法人股東指派或改派代表人董監事執行職務致財報不實應負連帶賠償責任| 財富管理| 商情 - 經濟日報",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aNXdjcWpicXFmWUU3ODVZRE5IRVFDNFhzYXRybnNzWmFBeUJlcFZkek5pVkRZVUo5WklTZ3pVUkRXV0tGLVhoVm9jMDI3R0VkLTByWDM2aXA4dw?oc=5",
+              "date": "2026-11-19",
+              "meta": "經濟日報",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "董監代表涉財報不實 法人股東也跑不掉！最高法院大法庭統一見解 投保中心按讚 - Yahoo新聞",
+              "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOLS0wRHpQSFp2VVNwdlRRZlpCSWlDbFFkcXJZVXo3Mno4OVFtYmFaSVBvUFRsMXdxMWs3c2FsYjl3dzBUQlVCUDhCNGRVem5vU1M4ODJfdHlXUEdkbXoyRTdkcnJJM1Z3dXVsWFNRRTlqWnYyS2V1MGxyTzR1aDlUUUp0WU5KdmQ2ZGpuNVk2REJXZ2JQc0VyRUlPTVJfQkl3SjduZTBIMGNTTzZzLUxYY0tmd0RGdUtuQUo5UW5EVUl4NDVpNVBkZXBPNEJBZ1p4eXk1WXB3UHA0RVlhWXF0bV9XMWFpZl9feVR2aDJDT0c0SmJBaDl5a0ppRTZjTGNnMF9QaXdDMXFlb1BRbUxzTlo1UkVpQUgwQ3JZR1RpRE8zd1E4a2NMZjh5cU5mVE5qQmpqS0lya3hDR1NvVzhsQWF0UEhQZFpUblV2REhGNzlIZkhqb3RBSGk4VURkU1lkRGJGLXdLVUlPQXE4MWRNemxyd0otRVplUHp6WFg4MlZoMnRPRmZxOFcwQWlBMEE4QkJGRnhmdzc2UFJoTTA1U1ZIYVBlV0lfQmdJcWJhc0VCMVJJMUZYc2xvMDJKcUFPZXA5d3AwaWh1bTRMSmNub0g2TV9GM2ZPakFUbXVwSXh6emtQ?oc=5",
+              "date": "2026-11-19",
+              "meta": "Yahoo新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "3歲童墜天井重殘2-1》母不在場看顧 提告管委會掀法律論戰 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBndW5sWG83LU1QUkJORndybE1VVENYVEY5NDhtYUZ3NzI3R25Tc1cxeDlkRUdNajNhaTVPbDMtV2JtVDJXWDVjbUtpX3NtSktzamE1UDg5QVZGR1laSjJfbWkwVFROcWM00gFuQVVfeXFMT09WSzRyY0FHd2NtTTNVUFdKR2k2UTB6TG1iMXozazhNbGFqaGJrNk1fZXZRbE9fanZHUVVRX0NXOWVyem1BdUxhQUxYZU53dXJIcmxibE1XYU9kRVlDMG9sMFBjVXBRalBYamJYU2c?oc=5",
+              "date": "2026-06-06",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-06-06"
+            },
+            {
+              "title": "法人名譽受損算得清？學者：無形損失難估 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UUNiTW1qTVBIWUdFX3VSRkQyak1qb2txQ2R0bXdzLU1iN2RpZXZlNURfQnZ2azlkaDI1ZGhTbE54aFRieXVkQ2dBY1F0bTN4RGh6bEFCZGU2WnM0U2Zz0gFkQVVfeXFMUE5fdnI4akJwT2tUV1BwRTJjSzV5Y215MEg5cDVaX1hoeDdsY3NHcHJRM3pZNTZlOV9Ta0lPS25MTHQ4M2hDa0NKZlFTWDFyNWNxM1RpVEUtOS1FWUhteUJVVm54UQ?oc=5",
+              "date": "2026-03-20",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-03-20"
+            },
+            {
+              "title": "時代變遷下之法人名譽受損損害賠償- 日報 - 工商時報",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GZ05EVk9lWG1maXlyQlZ2UVd4SU5HZDNjNllGU3FfRnhyVV9tVkpNSHg5V3B2Q1hDUkxMazM2eW1IWHUtZTNQZlZmTXV0UVh5UzZsMGp4VW5Zb1dMTEhF?oc=5",
+              "date": "2025-08-27",
+              "meta": "工商時報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-08-27"
+            },
+            {
+              "title": "重磅訊息：我國「首件」高等法院民事判決肯認閉鎖性公司章程股權限制規定不違反民法繼承規定| 安永台灣 - EY",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWpaQVh3TFp6TG9SOVhzYTNDRER5OHgzZG9pUGFldngwT3EyUldISUtnTHNWT1FpdmtPQ2xZZ1FWTHZ5cUxjZ3E1TWJ0VUV0ZU5zdDgtNng2Z0J5WXV0M3AtVURUVkI2Z3JWV3VBbjBpUlNnUTZEWWQtdjZ4MzZ1cXZGRUs4eFNJaG43RDF2YkVULXVJTEx4NXJIaXUyUmh3RmdENExsQ0MzMjZ6?oc=5",
+              "date": "2024-10-30",
+              "meta": "EY",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2024-10-30"
+            },
+            {
+              "title": "最高法院大法庭裁定：原保地假人頭買賣無效 - 報導者The Reporter",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10SUFHRnQ4a0k0OHA5d09OcW96OXk5eTlMMnZSZ2hMQWU3TlNLSEdNM05VeWVUaFBsbllidnJUdlo4Y3M0LTZsdlU0S3hZZGgxNUNJM2RVQXpQRm1aM0VYbEZuQjZtMVl0RzA0aVpUeU96b19h?oc=5",
+              "date": "2021-10-20",
+              "meta": "報導者The Reporter",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2021-10-20"
+            }
+          ]
+        },
+        {
+          "label": "📋 修法・新法規",
+          "items": [
+            {
+              "title": "百年繼承法不能只「切香腸」唯有刪除第1138條手足繼承權才是真改革 | 勁報 - LINE TODAY",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0taDNNQV9aVDVxc2N2M2ttdVlGTWlxMzlCd01WbnFaazEwWHR1akRLaTN2RUZrRWJ0YnU2QmUxSEpBQ0VzUC16c3lGbXJxclFjZ0tWZlNn?oc=5",
+              "date": "2026-11-24",
+              "meta": "LINE TODAY",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "完善繼承制度政院通過「民法繼承編」部分條文修正草案及「民法繼承編施行法」部分條文修正草案 - 蕃新聞",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sSUpTUGtUM2xjRGhjQ3I5R2k3YmVnSmpzNTdMSXZoQTNUTl9Yd1dFS2FCbWdRb3lPYlZfc013MVNnek9faW9UcDE4Sm1OSmlNTVE?oc=5",
+              "date": "2026-11-20",
+              "meta": "蕃新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "政院拍板「民法繼承編」修正草案 配偶應繼承分提高至2/3 兄弟姊妹降至1/3 - 台灣好新聞",
+              "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOZ3VwaUVMV0RsZXRXZ0xmUGM1bThwT2ZYc3lPYnNDRGlSbGxrSUhvdjkwbkt6Y0hXQW1VSDFXbE5ZdE1LVGxJQUdzWEgxaktLZWFNVGtsLXhOT3VoUlVCbmU1RFdXYkZzNEI3SlZKbGNHWFNJdGo3VDBpQktpNHBEamtQWVlHeGZfNFVHSENqRU9ncExvYU9MdE4taXZoMGUxTjZNV3Atd29BUVpLcnpEX2JvNUFLbk0yb2s2bE1NZHZfNy1fUEN0QzI5dkNzcFFJVnhzTkliQmVXb1dWNTM0eG1pX1MtRkFZZlNBQ2dFR05fS3ZFcGRocm1XSVVCSDdOWW1rUlN2bFAxSWNEV1BEaXhUaGZFQjBKM1ZBVHVRdEIxWlJ4MEJDZjNPYURVYkFHZnpQM1RaSUxGRFU3bmpDc3hnSmhob3dlc2xFTXpsQ2VBbHpPa0c3YkRLaUJsRVpBS2JjNFo3dEVNNWNqa2NIQmhkMnpJZlNvWWtrU20yMG5pUmxVWDItTVMxX2xHdWVBR2N1OHJRc2NpMl9rcWN1TVdsR2JqXzZSS3lQeGhKSVpIUlRzNVZ4dHItY2JiNzA2VmVv?oc=5",
+              "date": "2026-11-19",
+              "meta": "台灣好新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "遺產改制…配偶應繼分增至三分之二 增繼承人特別貢獻 - udn",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4ZXB2TkF4ajhkVHpXTFNORUVrbldDR3RnYkpBUkhLSVp2ai1zMVR3NHRhd29WX3l4RG15dmR3VEhwaWNRUURMQWhWa0F6Rndr0gFWQVVfeXFMTXNldE1BT212NXR3NkxnVUxXbDZhZjFaeWFoRlZ5LVhPVDVLQ0phU0hPMGZZenZvTjVybGpuZWl5N3UtZ1J4cEMydjRhRnI3OW0tcHRJdlE?oc=5",
+              "date": "2026-11-19",
+              "meta": "udn",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "行政院提修民法繼承編 配偶應繼分提高至2/3 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RbFdraF8wTGlwZmdGaVItVkZMbnpJZTljanBtVTB1NE1JWTNHX2FVUXBFUFJEaTVIa0RKWGRpUFVYc3R1aWw2VW9YMVhEa3E3ODRaYnNTcXM1X1FFNWdR?oc=5",
+              "date": "2026-11-19",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "政院通過民法繼承編修正 配偶應繼分調為2/3 - Rti 中央廣播電臺",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sdE5ReWNKYkZsUzE4VHFEc3ctYzFEQm13M0ljaFRWcFdUY3hIQk5OWnJpTHlQTmJrQnIzM2twSEpBSDhOMFM2R3hLay1ocXY4eTltd2xoTlc?oc=5",
+              "date": "2026-11-19",
+              "meta": "Rti 中央廣播電臺",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "保障「床前孝子」！政院拍板民法繼承特別貢獻條款：照顧長輩可多拿遺產 - 鉅亨網",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FaVlPTEhHQmt5OVFQVk15a3V4emt0Z2F3RHdBVFVEWXREV29oMkVLanF6LVZDTXk5QUhZMGV4UlFXMUIwTFc0NUZ3ZUJVS2c?oc=5",
+              "date": "2026-11-19",
+              "meta": "鉅亨網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "政院拍板民法繼承編配套 無遺囑手足應繼分降至三分之一 - 公視新聞",
+              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zS0hILWlwU3l4MC05a3pRWkJwVkJRdlFVblc0c2dKdmlEZDRHaVpOa05senkwdDg2ZHdWbWtORVJYaWVRQjJUQlFkbUxNU1k?oc=5",
+              "date": "2026-11-19",
+              "meta": "公視新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "label": "🔥 爭點熱區",
+          "items": [
+            {
+              "title": "遺產官司打完之後 務必把握補報期限 - 台灣房屋",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcGpNLWstYkRBRVFvTnRadW9mS0xjQXNPZkh6VUlKMHF1VTY0c0ZmdUQwQllrMXd0OVJGWVFsMHBWeEhHM3RwS0hfZDZoVURiOVFaMS1kQ0tHbnBSRmJMTUZEU25vcVU?oc=5",
+              "date": "2026-11-25",
+              "meta": "台灣房屋",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "租屋住了3年，退租還要像新的一樣？押金扣款規定一次搞懂- 房產新聞 - PChome Online 新聞",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlN2UkxLNnNxX05pMWQ4VVFkNHNOc2VuMjBrYmE0enliX1k0Q3QtM3FRNjFLMlJtTjBuVm04eW1iM0hpZVktZV9jNzFZQTEzdUV1eU5sMmtVUlpXeGx0RXVBWjY0T0VfQkRwUXVqRmFZSF9UV1prYlRhbWxlR1pVRmpWc1dBMXNQdGJ3Sy13?oc=5",
+              "date": "2026-11-25",
+              "meta": "PChome Online 新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-25"
+            },
+            {
+              "title": "同居30多年換來官司！女賣房救建商男友 他翻臉喊借名登記 - 中時新聞網",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXRnR4eDhEWlJSNktxZ0FjSklhODE0UTZYSGs5b29URVQtS2NfNGNIbDNxeDFEMHF1VEhZV25UWEtWb0pQeUdpelI3aWJYR2pGYXVfN0s3cWpfSnhYT1c4?oc=5",
+              "date": "2026-11-24",
+              "meta": "中時新聞網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-24"
+            },
+            {
+              "title": "匯200萬買房成空！黑心房仲下場曝光 - 鏡週刊Mirror Media",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqS1AxekxsTW5DV3J1SlBGSGl3d1FHQjdTeWJ2bFVtQXFwSncydHNRU3cwZGdxcFhnMjlxdjFkdExUaDJ4YjgwVTZVNjBxdXN3LXR4ZjUtZWVrU29q?oc=5",
+              "date": "2026-11-23",
+              "meta": "鏡週刊Mirror Media",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-23"
+            },
+            {
+              "title": "為選舉搏感情 表弟趁機勾搭表嫂激戰6年判決出爐 - 中時新聞網",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yaU5BYzNnZTNodHcyUk1QX2ZVektGdFRNWk9fU01OaGxsM3Vqa2NFc2tNNHF4NjAzbUNSSmhHVF9HSko0eXhTR19EUzBna0g3WnF5Ukx3VEc3WFVpb2lUbXJ6enBfNndPNmdBUndn?oc=5",
+              "date": "2026-11-21",
+              "meta": "中時新聞網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-21"
+            },
+            {
+              "title": "夏莉絲虐童案變小額消費爭議？律師砲轟蔣萬安：到底在幫誰| 政治 - Newtalk新聞",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81SUpTYnhoZkJoZnBKdUlGd1FHNUlyZERsRmdVRUx2el9oR3hQeDc2T2w2ZkZCVWpCel9CNnNqWGxlMTJnSE5Jd0FITWFDS3dMeFRHVEg2UXJTbms?oc=5",
+              "date": "2026-11-20",
+              "meta": "Newtalk新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "中廣花蓮台占國有土地…交通部打官司討不當得利 法院判賠549萬確定 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWcmw4cFdnSlVlVVVpWE1nbW1KTXNQTWlCMEZXSHljOHl1aFcwZWJoMXRwZGE4VlpueU5WYXdqbnRsTkx6U3FrRTlaUk5zNl940gFWQVVfeXFMTzgzbDV4YkZFZ2NmS0ZQZ25ZSkNwcHNWNnlDclVTbGRzUEhsUktINDhmMW1MQ1c1anFrVTREUElJRmpZMXZzZ3hmOUVITC1DTG52cTgtMHc?oc=5",
+              "date": "2026-11-16",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-16"
+            },
+            {
+              "title": "媽留下的土地不是你的？「借名登記」法律陷阱 - 自由時報",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13ZUNRY3U5czROcUFzV0E4NjI2dUZtc3RJcXI1a25EQkgwLWc4MHU4VkpWT3VVMElVZzhYNDNkUmxST0RvaHlLRTllTW9XLTNI?oc=5",
+              "date": "2026-02-13",
+              "meta": "自由時報",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-02-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "commercial",
+      "name": "商事法",
+      "exams": [
+        "調查局",
+        "司法官・律師二試"
+      ],
+      "desc": "公司法・證券交易法・票據法・保險法・企併法…公司治理與內線交易",
+      "columns": [
+        {
+          "label": "⚖️ 最高法院・大法庭見解",
+          "items": [
+            {
+              "title": "董監代表涉財報不實 法人股東也跑不掉！最高法院大法庭統一見解 投保中心按讚 - Yahoo新聞",
+              "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOLS0wRHpQSFp2VVNwdlRRZlpCSWlDbFFkcXJZVXo3Mno4OVFtYmFaSVBvUFRsMXdxMWs3c2FsYjl3dzBUQlVCUDhCNGRVem5vU1M4ODJfdHlXUEdkbXoyRTdkcnJJM1Z3dXVsWFNRRTlqWnYyS2V1MGxyTzR1aDlUUUp0WU5KdmQ2ZGpuNVk2REJXZ2JQc0VyRUlPTVJfQkl3SjduZTBIMGNTTzZzLUxYY0tmd0RGdUtuQUo5UW5EVUl4NDVpNVBkZXBPNEJBZ1p4eXk1WXB3UHA0RVlhWXF0bV9XMWFpZl9feVR2aDJDT0c0SmJBaDl5a0ppRTZjTGNnMF9QaXdDMXFlb1BRbUxzTlo1UkVpQUgwQ3JZR1RpRE8zd1E4a2NMZjh5cU5mVE5qQmpqS0lya3hDR1NvVzhsQWF0UEhQZFpUblV2REhGNzlIZkhqb3RBSGk4VURkU1lkRGJGLXdLVUlPQXE4MWRNemxyd0otRVplUHp6WFg4MlZoMnRPRmZxOFcwQWlBMEE4QkJGRnhmdzc2UFJoTTA1U1ZIYVBlV0lfQmdJcWJhc0VCMVJJMUZYc2xvMDJKcUFPZXA5d3AwaWh1bTRMSmNub0g2TV9GM2ZPakFUbXVwSXh6emtQ?oc=5",
+              "date": "2026-11-19",
+              "meta": "Yahoo新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "label": "📋 修法・新法規",
+          "items": [
+            {
+              "title": "卓揆：儘速完成《性別平等工作法》及《就業保險法》子法及配套措施確保116年元旦勞工與軍公教同步上路 - 蕃新聞",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nVi03UDZNSXg0NkItSGlOeWZuSlBOZnNjdWdCTTh6S0tBRElnRG5QNEVmMENtNjJ5TG1rSTVUVnBad0JHdlo0M1diMFlFRnRiMGc?oc=5",
+              "date": "2026-11-20",
+              "meta": "蕃新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-20"
+            },
+            {
+              "title": "「性別平等工作法」及「就業保險法」三讀後新制內容－軍公教人員相關措施處理情形 - 行政院",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUUVFaVNFS1dLQ0s3VXltSkp0ZDBrYjI1TGE4cU15M1JMWHJnWW4zTWZDaTg0VXNmZEtHdnZ0dktmOGR5dC1MVEdRVFlFOGFrdlByMWNFUy1kR2U4WDVyb2hubllERVQyWGtKOGwtUGN1RXJPOWtOZzBuSE5Lenk4NkFReFQzQmc?oc=5",
+              "date": "2026-11-19",
+              "meta": "行政院",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "友善職場邁大步：性別平等工作法及就業保險法三讀後新制內容 - 行政院",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHdMMWV5MlZpVXc4QjRUMm1fRmpucy1Zek90NVpHajhKNWtsWHlHeElrWnhjRE9jOFc4WkdLSVpQbklKTWo2NWttT0pGSFBPUUpXMjF5bDRHYXlyTXZiZEhHeUc3NjdNaW5vWGJlQjRDN1Z6QmlycGNXcVUwOXRjZ2NkZkZMWTQ?oc=5",
+              "date": "2026-11-19",
+              "meta": "行政院",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "卓揆：盡速完成《性別平等工作法》及《就業保險法》子法及配套措施 | 青年日報 - LINE TODAY",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SNV9UUFlNV3h4WDBXV2ZBVnUxSzB3SklZakdxLUt4Qk5lQ05ua3Y5b19CNVFBVC1zMmtDSktlUFU1WEVJSUVOOEJKb0JMV2tZTk1OV25R?oc=5",
+              "date": "2026-11-19",
+              "meta": "LINE TODAY",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "育兒禮包拍板！產假變14週、育兒假翻倍60天 明年元旦上路 - TVBS新聞網",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xbW1RQ0NMdl96UXB3YWlLNk1Od08yMVh6cVB4ZXJBejIzcWhTR2E4cEpDcTRnU2JrX0dfU0JXalRCTkxVR1JjV2I3NTVjckk0T2xB?oc=5",
+              "date": "2026-11-19",
+              "meta": "TVBS新聞網",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "《性別平等工作法》及《就業保險法》116年元旦勞工與軍公教同步上路 - 蕃新聞",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uTG1va2tnR25HR1gtWjZ4cGZCSTd5X1plbmxpOUVlTkRyWFBiMjVoUVVQUl85d1RBa2ZaSjRmR1JTSmpZNzNtVWVRRHUzZ0l3dkE?oc=5",
+              "date": "2026-11-19",
+              "meta": "蕃新聞",
+              "summary": "",
+              "is_new": true,
+              "_sort": "2026-11-19"
+            },
+            {
+              "title": "政院通過就業保險法部分條文修正草案 提升勞工保障 促進家庭內性別分工之平等 - 勞動部全球資訊網中文網",
+              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52NEVPR1N6eXlSanJBWGhKaHpOVE03RmlIMjlmLU1YbU9KczYzdWhVR0hpLWU3Xzk0MU1rNGVUU2ZBajhITFIwaWtxWnN5ck1LY0dsUF9yaw?oc=5",
+              "date": "2026-05-28",
+              "meta": "勞動部全球資訊網中文網",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-05-28"
+            },
+            {
+              "title": "立院三讀保險法修正壽險保單免強制執行門檻定案| 政治 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oWGRxeVNBajFkZTJyYUgxZ1dROHAtX09wQmVLTGU0ZmlpWG9HQ1JLWGVnaFBFVHlxSmU5R0ZPemc4Q0xDa2JzdDUzNmNyWTRmZEVvRjVsczNxR3NQQ3lZ?oc=5",
+              "date": "2025-06-03",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2025-06-03"
+            }
+          ]
+        },
+        {
+          "label": "🔥 公司治理・矚目案",
+          "items": [
+            {
+              "title": "幸福人壽掏空案更二審沒收判決高檢署不服提上訴| 社會 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRmh4b3ZkblJpNkVTbUdVcmJ2OV9OTFQ1Rm5YOW1JS0RxRzFzaUJqZWllRmFHT1dzdGs3Q09VLTVjUjRpa19oM21pVlgyWklSTi1ORHpvZ25zdU9RbmhB?oc=5",
+              "date": "2026-10-18",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-10-18"
+            },
+            {
+              "title": "中石化前董事們慘了！京華城土地交易爭議 恐面臨破紀錄求償 - 自由財經",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LbmFOWnBCWEJNQjNiWE9vNlllNW44RXFoMmJJQy1UMWJtZy1YbWN5T3FVNkM4bVB3c3VYbFVkMEEwdWNDNjJJSzI4ZVJyMGRvaTBHRmZZd0VJY3VXRFR30gFkQVVfeXFMTV9vQ1pnazN4TUt4ZTNMclFtemVpMFA0YktLM3RzVG1QdU1IbXZ1VlNWbGE0ODZucDh6ejNoNk9oU2xia3A2dTBYVzk0cmJRdjkwTmhhRFFNZWRXVS1nUmJYbG55UQ?oc=5",
+              "date": "2026-10-03",
+              "meta": "自由財經",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-10-03"
+            },
+            {
+              "title": "師大女足前教練周台英涉侵占、詐欺遭起訴吹哨者盼改變體育環境| 生活 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xNlVDME1iXzM0SDhkdEQzZ0IzZEVIaS1RNk9VQ3FoWHVFTF95bEY0Rmo5RWdSSm5Bakt3T29DT3ZRalBpZERfQ0dYWGpfLVgxX3pTVjB0Z3Jaa0pBMGxj?oc=5",
+              "date": "2026-09-30",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-30"
+            },
+            {
+              "title": "協禧電機董座不起訴被撤銷 涉內線交易賺28萬起訴 - UDN",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySFdpR0VQenZvQ3hReDgzd29MLUNVRnlhZUl2Wk0wX25YNlF4bjY5Wllxd2hNZVAwdWJRWTF2cURVQldPWjhWc1BZem1qTzZT0gFWQVVfeXFMUG1qRzhUdzRJMldiRFhTNTd4cWJHN0RfbWsyTWlYQzd5ekZCWnhLR29ZeXl4ck4zMmRHRWpRY3BPcjA4dGxmbkZIZ0NfeVJpdHZ1dnJyWHc?oc=5",
+              "date": "2026-09-16",
+              "meta": "UDN",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-16"
+            },
+            {
+              "title": "涉內線交易力麗集團總裁郭銓慶遭起訴| 社會 - 中央社 CNA",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QZmdTdEEzSzdUbi11emhuQ2luc2QxU2ROcVRIZnc2MHNzNy1TUlFpNEdCeDZZOGN6SDhTc1oxbU52MzRtaDFMQVk4eHB0Z2F1YTI3a2drem00Z1JseVBZ?oc=5",
+              "date": "2026-09-03",
+              "meta": "中央社 CNA",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-03"
+            },
+            {
+              "title": "力麗集團總裁郭銓慶涉內線交易 獲利逾239萬元 今起訴 - 自由財經",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VOHRzeDhTQXh6am1mZmFvZWV5V3lKMjRoUXdrdFhTSVlBZmJUeDBaRVdycVZlWWJxVUJzX2k1NUZ2VlJhZFNrU3VRVlQzd1k5UUUxLXRIMDg1bElBYmxB0gFkQVVfeXFMT2tSSWJickdvNFFvZk9FYy1zUmZvbk1iQXlpVlM1d3BveWRGeDFiRG9YX3RkdkZPMFpDSzluaGJlcG91NWpqam9jcDEtSWI0LUd4SWJPVFFVRDl3VXJTcDhrTU9BNQ?oc=5",
+              "date": "2026-09-03",
+              "meta": "自由財經",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-03"
+            },
+            {
+              "title": "私募案曝光前先買股！力麗總裁涉內線交易 獲利239萬遭起訴 - Yahoo股市",
+              "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNM2tRajNhX2ZVRkdOdHhkbDV6bTdhSTBrb25JSWRwTmRiSVlhRk5sYU0yb1BYVS04Q1hYTEhhUk9LRDh1b3J3M19DV0dHTWlyZ0VqYzJQMFQ5Q0MzLWhrdWRCck9zMnQwb1BrMnFtT3VVQ3dIcXl5QXRFTTluNU14c0htb3VVeXY4cFNNNjNVNlNCSWo1eWtuTzRwYXBYMzBQVUFJOVdsbGZPY05uVDZWVFpEdzBaZTVuUUl2SW05LUhhc1VURFlaOFcweU1YNEhvb1haUmdEUnRPdmtOMlR5aTVFcnl5bDB4Qm9Ba3Z6VU90MVgtX0tHejRuMmxnZk5oTkJzeE4ya1IyQlFySndlaHJmQ2d2VnBFVmdPblVLOG52R1ZvWklxbGw2NlR5M3dfSDVHQlZLSlczLTJrcDB3dEVFM0NVMHpBQUFlUFBOd0Rqc1ZFYjdFT0pmWmhfV2d0dmM3SEh6cHZEblRwQW5lNzAwVkMwVWpkM0ZzUGQxa2xnQQ?oc=5",
+              "date": "2026-09-02",
+              "meta": "Yahoo股市",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-09-02"
+            },
+            {
+              "title": "力特光電南科廠賣台積電案涉內線交易 董事長女兒、總務處協理等14人被起訴 - 自由財經",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iVy1STUhQdVZXT25OYlQ2TzNFWEJoaVN4SVRNWXNPaXJrT3VydXAtajVmT3hqbURxWU8wdTNCX2JCTGYtSmNITEIzQ1ZmM2JMN2NQXzV5X1RIbS1sb20w?oc=5",
+              "date": "2026-08-27",
+              "meta": "自由財經",
+              "summary": "",
+              "is_new": false,
+              "_sort": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cons_court": [],
+  "moj_law": [
+    {
+      "title": "金融監督管理委員會令：依據「證券交易法」第61條規定，訂定有價證券買賣融資融券之額度、期限、融資比率及融券保證金成數之規範，自115年11月23日生效",
+      "url": "http://www.moj.gov.tw/umbraco/surface/Ini/CountAndRedirectUrl?nodeId=293017",
+      "date": "2026-11-22",
+      "meta": "法務部・全國法規最新消息",
+      "summary": "",
+      "is_new": true,
+      "_sort": "2026-11-22"
+    },
+    {
+      "title": "金融監督管理委員會令：有關「證券交易法」第18條第2項、第60條第1項第3款、第138條第1項第11款及「有價證券得為融資融券標準」第6條之相關規定，自115年11月20日生效",
+      "url": "http://www.moj.gov.tw/umbraco/surface/Ini/CountAndRedirectUrl?nodeId=292902",
+      "date": "2026-11-19",
+      "meta": "法務部・全國法規最新消息",
+      "summary": "",
+      "is_new": true,
+      "_sort": "2026-11-19"
+    },
+    {
+      "title": "修正中華民國刑法條文",
+      "url": "http://www.moj.gov.tw/umbraco/surface/Ini/CountAndRedirectUrl?nodeId=292997",
+      "date": "2026-11-19",
+      "meta": "法務部・全國法規最新消息",
+      "summary": "",
+      "is_new": true,
+      "_sort": "2026-11-19"
+    }
+  ],
+  "moj_news": [
+    {
+      "title": "行政院院會於今日通過「民法繼承編部分條文修正草案」及「民法繼承編施行法部分條文修正草案」",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/292695/post",
+      "date": "2026-11-19",
+      "meta": "法務部・新聞",
+      "summary": "為因應將自116年2月17日施行之民法第1223條，本部提出「民法繼承編部分條文修正草案」及「民法繼承編施行法部分條文修正草案」，經行政院院會於今(19)日審查通過。草案修正重點如下：一、 民法繼承編部分條文修正草案(一) 修正兄弟姊妹與配偶同為繼承人時之應繼分比例鑑於現今社會家庭生活型態改變，兄弟姊妹間之關係未若以往緊密，又我國已進入超高齡社會，當配偶與兄弟姊妹共同繼承，且被繼承人生前未預立遺囑",
+      "is_new": true,
+      "_sort": "2026-11-19"
+    },
+    {
+      "title": "今（29）日行政院院會通過司法院送請會銜少年事件處理法部分條文修正草案及第十八條之二修正草案",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/290312/post",
+      "date": "2026-10-29",
+      "meta": "法務部・新聞",
+      "summary": "行政院院會於29日通過司法院會銜之「少年事件處理法部分條文修正草案」及「少年事件處理法第18條之2修正草案」，本次修正重點及行政院會銜所提建議條文，說明如下： 增訂少年重大犯罪案件被害人訴訟參與制度 針對故意致人於死或重傷之少年刑事案件，增訂被害人得聲請參與本案訴訟程序，如被害人有法定不能聲請之情形，得由其法定代理人或特定親屬聲請；如被告為被害人之法定代理人或特定親屬，且無其他得聲請之人時，得由被",
+      "is_new": true,
+      "_sort": "2026-10-29"
+    },
+    {
+      "title": "行政院會通過法院組織法部分條文修正草案 強化人力彈性運用、有效減輕辦案負擔",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/289425/post",
+      "date": "2026-10-19",
+      "meta": "法務部・新聞",
+      "summary": "行政院院會於15日通過司法院會銜之「法院組織法部分條文及第11條附表、第33條附表、第73條附表、第74條附表修正草案」，本次修正以「檢院同步升級」為主軸，透過相近職務員額合併編列、機關分類細緻化及補強專業輔助人力，使人力配置更貼近實際業務需求，有效減輕檢察官工作負擔，提升司法運作效能。本次修正有關檢察機關部分之三大重點說明如下： 一、 一類地方檢察署(下稱地檢署)再分級，以充分反映人力需求考量地",
+      "is_new": false,
+      "_sort": "2026-10-19"
+    },
+    {
+      "title": "今（13）日行政院院會通過洗錢防制法修正草案",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/284480/post",
+      "date": "2026-08-13",
+      "meta": "法務部・新聞",
+      "summary": "今（13）日行政院院會通過洗錢防制法修正草案 「洗錢防制法」部分條文修正草案於今（13）日經行政院院會討論通過，本次修法係為持續強化我國洗錢防制體系、因應新興犯罪及資金移轉態樣，並與防制洗錢金融行動工作組織（FATF）國際標準接軌，進一步完善實質受益人透明度、跨機關資訊共享及公私部門協力機制，修正重點如下： 增訂特定犯罪規範，防堵洗錢漏洞 將未完成洗錢防制、服務能量登記或登錄，即提供虛擬資產或第三",
+      "is_new": false,
+      "_sort": "2026-08-13"
+    },
+    {
+      "title": "立法院今日三讀通過刪除民法「兄弟姊妹特留分」規定 法務部支持修法方向，將儘速推動配套修法，完善現代繼承法制",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/283198/post",
+      "date": "2026-07-28",
+      "meta": "法務部・新聞",
+      "summary": "立法院於今(28)日三讀通過委員提案修正民法第1223條及民法繼承編施行法第12條規定，刪除「兄弟姊妹特留分」，與本部修法方向相同，本部敬表支持。 本次刪除「兄弟姊妹特留分」規定，主要係因應現代社會家庭生活型態改變，兄弟姊妹間之關係已未若以往緊密，為回應社會期待，而酌予放寬對遺囑人遺囑自由之限制。惟本次乃刪除兄弟姊妹之「特留分」，其「應繼分」規定則仍予維持，是如被繼承人未於生前預立遺囑排除兄弟姊妹",
+      "is_new": false,
+      "_sort": "2026-07-28"
+    },
+    {
+      "title": "對抗毒駕、酒駕及特殊重大暴力犯罪 行政院院會通過相關不得假釋及刑法施行法修正草案",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/280219/post",
+      "date": "2026-06-25",
+      "meta": "法務部・新聞",
+      "summary": "為遏止毒駕、酒駕及特殊重大暴力犯罪之重複發生，及因應司法院釋字第801號解釋宣告有關羈押日數未算入假釋已執行期間違反平等原則，本部參考相關外國立法例，廣納審檢辯學及機關代表意見，擬具修正草案陳報行政院審查。行政院對此修正草案至為重視，為求慎重，密集召開多次審查會議，聽取各機關意見及凝聚跨部會共識，於今(25)日經行政院院會討論通過，將函請司法院會銜送請立法院審議。俟修法通過後，毒駕、酒駕及特殊重大",
+      "is_new": false,
+      "_sort": "2026-06-25"
+    },
+    {
+      "title": "行政院院會今（18）日通過毒品危害防制條例第33條及第36條修正草案 增列唾液採驗，強化特定人員毒品防制效能",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/279668/post",
+      "date": "2026-06-18",
+      "meta": "法務部・新聞",
+      "summary": "現行毒品危害防制條例第33條規定，各主管機關對於所屬或監督之特定人員，於必要時得要求其接受毒品檢驗，惟現行規定採驗方式限於尿液檢體。鑒於近年毒品檢驗技術持續發展，不同類別特定人員之列管考量有異，現行僅得採驗尿液之規定，已難完全符合實務需要。為提升毒品防制工作效能，本次修正增列唾液為毒品採驗之方式，以符合毒品檢驗之實務需求。本次修正後將配合調整特定人員尿液採驗辦法，使各主管機關得依其業務特性規劃適當",
+      "is_new": false,
+      "_sort": "2026-06-18"
+    },
+    {
+      "title": "澄清民法繼承編之「草案預告」並非取代法定立法程序 而係依我國既有之「草案預告」制度， 廣納各界意見之正當法律程序",
+      "url": "http://www.moj.gov.tw/2204/2795/2796/279302/post",
+      "date": "2026-06-12",
+      "meta": "法務部・新聞",
+      "summary": "針對日前媒體刊登投書評論對於民法繼承編之「草案預告」程序有所疑慮，本部說明如下： 一、目前行政院所屬各法律主管機關如擬修正法律，係擬具法律修正草案陳報行政院函請立法院審議。而各機關於陳報行政院審查前，得依行政院相關規定權衡相關情事，以「草案預告」之方式，向外界徵詢修法意見，此作法已行之有年。 二、法規草案預告制度之目的，在使社會各界得事先瞭解各機關目前所研擬之法令與政策，並有表達意見與建議之機會，",
+      "is_new": false,
+      "_sort": "2026-06-12"
+    }
+  ]
+}
